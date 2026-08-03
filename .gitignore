@@ -1,0 +1,11 @@
+# рабочие артефакты сборки
+/build/
+/dist/
+/pack/
+*.mrpack
+parts/
+__pycache__/
+*.pyc
+
+# локальные копии инстанса
+/instance/
