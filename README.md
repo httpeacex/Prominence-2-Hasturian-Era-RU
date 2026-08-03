@@ -9,14 +9,26 @@
 
 <br>
 
-[![Minecraft](https://img.shields.io/badge/Minecraft-1.20.1-44883E?style=for-the-badge&logo=minecraft&logoColor=white)](https://www.minecraft.net/)
-[![Fabric](https://img.shields.io/badge/Fabric-загрузчик-DBB585?style=for-the-badge)](https://fabricmc.net/)
-[![Версия сборки](https://img.shields.io/badge/сборка-v3.9.27-C1440E?style=for-the-badge)](https://www.curseforge.com/minecraft/modpacks/prominence-2-hasturian-era)
-[![Строк](https://img.shields.io/badge/строк-3%20527-2D6A9F?style=for-the-badge)](#что-переведено)
+<a href="https://github.com/httpeacex/Prominence-2-Hasturian-Era-RU/releases/latest/download/Prominence2-RU-v3.9.27.zip">
+<img src="https://img.shields.io/badge/%E2%AC%87%20%20%D0%A1%D0%9A%D0%90%D0%A7%D0%90%D0%A2%D0%AC%20%D0%9B%D0%9E%D0%9A%D0%90%D0%9B%D0%98%D0%97%D0%90%D0%A6%D0%98%D0%AE-v3.9.27%20%C2%B7%20432%20%D0%9A%D0%91-C1440E?style=for-the-badge&labelColor=17120E" alt="Скачать локализацию" height="52">
+</a>
 
-<br>
+<br><br>
 
-[**Установка**](#-установка) · [**Что переведено**](#-что-переведено) · [**Как устроено**](#-как-это-устроено) · [**Качество**](#-контроль-качества) · [**Глоссарий**](GLOSSARY.md) · [**Ограничения**](#-известные-ограничения)
+<a href="#-установка"><img src="https://img.shields.io/badge/%D0%9A%D0%B0%D0%BA%20%D1%83%D1%81%D1%82%D0%B0%D0%BD%D0%BE%D0%B2%D0%B8%D1%82%D1%8C-2D6A9F?style=flat-square&labelColor=1C2128" height="26" alt="Как установить"></a>
+<a href="#-что-переведено"><img src="https://img.shields.io/badge/%D0%A7%D1%82%D0%BE%20%D0%BF%D0%B5%D1%80%D0%B5%D0%B2%D0%B5%D0%B4%D0%B5%D0%BD%D0%BE-2D6A9F?style=flat-square&labelColor=1C2128" height="26" alt="Что переведено"></a>
+<a href="#-как-это-устроено"><img src="https://img.shields.io/badge/%D0%9A%D0%B0%D0%BA%20%D1%83%D1%81%D1%82%D1%80%D0%BE%D0%B5%D0%BD%D0%BE-2D6A9F?style=flat-square&labelColor=1C2128" height="26" alt="Как устроено"></a>
+<a href="#-контроль-качества"><img src="https://img.shields.io/badge/%D0%9A%D0%B0%D1%87%D0%B5%D1%81%D1%82%D0%B2%D0%BE-2D6A9F?style=flat-square&labelColor=1C2128" height="26" alt="Качество"></a>
+<a href="GLOSSARY.md"><img src="https://img.shields.io/badge/%D0%93%D0%BB%D0%BE%D1%81%D1%81%D0%B0%D1%80%D0%B8%D0%B9-2D6A9F?style=flat-square&labelColor=1C2128" height="26" alt="Глоссарий"></a>
+<a href="#-известные-ограничения"><img src="https://img.shields.io/badge/%D0%9E%D0%B3%D1%80%D0%B0%D0%BD%D0%B8%D1%87%D0%B5%D0%BD%D0%B8%D1%8F-8B6914?style=flat-square&labelColor=1C2128" height="26" alt="Ограничения"></a>
+
+<br><br>
+
+<a href="https://www.minecraft.net/"><img src="https://img.shields.io/badge/Minecraft-1.20.1-44883E?style=flat-square&logo=minecraft&logoColor=white&labelColor=1C2128" height="24" alt="Minecraft 1.20.1"></a>
+<a href="https://fabricmc.net/"><img src="https://img.shields.io/badge/%D0%B7%D0%B0%D0%B3%D1%80%D1%83%D0%B7%D1%87%D0%B8%D0%BA-Fabric-DBB585?style=flat-square&labelColor=1C2128" height="24" alt="Fabric"></a>
+<a href="https://www.curseforge.com/minecraft/modpacks/prominence-2-hasturian-era"><img src="https://img.shields.io/badge/%D1%81%D0%B1%D0%BE%D1%80%D0%BA%D0%B0-v3.9.27-C1440E?style=flat-square&labelColor=1C2128" height="24" alt="Сборка v3.9.27"></a>
+<a href="#-что-переведено"><img src="https://img.shields.io/badge/%D1%81%D1%82%D1%80%D0%BE%D0%BA-3%20527-6E7681?style=flat-square&labelColor=1C2128" height="24" alt="3527 строк"></a>
+<a href="#-контроль-качества"><img src="https://img.shields.io/badge/%D0%BE%D1%88%D0%B8%D0%B1%D0%BE%D0%BA%20%D1%84%D0%BE%D1%80%D0%BC%D0%B0%D1%82%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D1%8F-0-2EA043?style=flat-square&labelColor=1C2128" height="24" alt="0 ошибок форматирования"></a>
 
 </div>
 
@@ -70,16 +82,17 @@ CurseForge App, Modrinth App, Prism Launcher или ATLauncher.
 файлы квестов, талантов и меню; без бэкапа вернуться к английскому можно будет только
 переустановкой.
 
-**3.** Скачайте архив: зелёная кнопка **Code → Download ZIP** на главной странице
-репозитория. Если опубликован [релиз](../../releases) — берите оттуда: там лежит только
-оверлей, без служебных файлов проекта.
+**3.** Скачайте архив — [**Prominence2-RU-v3.9.27.zip**](https://github.com/httpeacex/Prominence-2-Hasturian-Era-RU/releases/latest/download/Prominence2-RU-v3.9.27.zip)
+(432 КБ) или кнопкой в начале страницы. Все версии — на [странице релизов](../../releases).
 
-**4.** Распакуйте архив и скопируйте содержимое папки `overlay/` в корень инстанса — туда,
+**4.** Распакуйте и скопируйте папки `config` и `resourcepacks` в корень инстанса — туда,
 где лежат `mods`, `config`, `resourcepacks`. Согласитесь на замену файлов.
 
-> [!NOTE]
-> Папки `tools/`, `data/` и `docs/` в инстанс копировать **не нужно** — это исходники
-> проекта и материалы оформления. Игроку требуется только содержимое `overlay/`.
+> [!TIP]
+> В архиве релиза лежит **только то, что нужно игроку**, плюс автономная инструкция
+> `УСТАНОВКА.txt`. Если вы вместо релиза скачали репозиторий целиком через **Code →
+> Download ZIP**, то копировать нужно содержимое папки `overlay/`, а папки `tools/`,
+> `data/` и `docs/` не нужны — это исходники проекта.
 
 **5.** Запустите игру.
 
