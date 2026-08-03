@@ -57,7 +57,7 @@
 
 1. Установите сборку **v3.9.27** (CurseForge, Modrinth, Prism, ATLauncher).
 2. Сделайте **резервную копию папки `config`**.
-3. [**Скачайте архив**](https://github.com/httpeacex/Prominence-2-Hasturian-Era-RU/releases/latest/download/Prominence2-RU-v3.9.27.zip) и распакуйте `config` и `resourcepacks` в корень инстанса, с заменой.
+3. Нажмите [**⬇ Скачать локализацию**](https://github.com/httpeacex/Prominence-2-Hasturian-Era-RU/releases/latest/download/Prominence2-RU-v3.9.27.zip) — кнопка в начале страницы. Распакуйте `config` и `resourcepacks` в корень инстанса, с заменой.
 4. Запустите игру → **Настройки → Наборы ресурсов** → перенесите
    **Prominence II — русская локализация** наверх правого столбца.
 5. Проверьте, что выбран язык **Русский (Россия)**.
