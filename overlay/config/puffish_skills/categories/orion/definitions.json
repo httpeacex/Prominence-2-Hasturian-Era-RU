@@ -1,0 +1,311 @@
+{
+  "oriondamage": {
+    "size": 0.66,
+    "title": "§f凌 §9+3% §7Урон оружия: §5Орион",
+    "frame": {
+      "type": "texture",
+      "data": {
+        "unlocked": "prominent_talents:textures/frames/circle_selected.png",
+        "available": "prominent_talents:textures/frames/circle.png"
+      }
+    },
+    "icon": {
+      "type": "texture",
+      "data": {
+        "texture": "prominent:textures/icon/talent_tree/artifacts/orion/icon_1.png"
+      }
+    },
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "prominent:artifact_damage",
+          "value": 0.03,
+          "operation": "addition"
+        }
+      }
+    ],
+    "editor-color": "#ff00a6",
+    "metadata": {
+      "icon": "vt5q3v2tr9v4ow8e"
+    }
+  },
+  "drawspeed": {
+    "size": 0.66,
+    "title": "§f凌 §2+3% §7Скорость натяжения",
+    "frame": {
+      "type": "texture",
+      "data": {
+        "unlocked": "prominent_talents:textures/frames/circle_selected.png",
+        "available": "prominent_talents:textures/frames/circle.png"
+      }
+    },
+    "icon": {
+      "type": "texture",
+      "data": {
+        "texture": "prominent:textures/icon/talent_tree/artifacts/orion/icon_2.png"
+      }
+    },
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "ranged_weapon:haste",
+          "value": 0.03,
+          "operation": "multiply_base"
+        }
+      }
+    ],
+    "editor-color": "#ff00a6",
+    "metadata": {
+      "icon": "uwp9malwyq3p52ds"
+    }
+  },
+  "pledge+algjebbah": {
+    "title": "§dОбет: §eАльджеббах",
+    "description": "§7Посвятите силу клинка §5Орион §7звезде Альджеббах, даруя её защитный дар.\n \n§fꬁ§2 +20 §7Сопротивление порче\n \n§f鹿 §eДар Альджеббах\n§7Исцеляет вас на 5% максимального здоровья при использовании способности из любой книги стрельбы из лука.",
+    "size": 1.5,
+    "frame": {
+      "type": "texture",
+      "data": {
+        "unlocked": "prominent_talents:textures/frames/diamond_selected.png",
+        "available": "prominent_talents:textures/frames/diamond.png"
+      }
+    },
+    "icon": {
+      "type": "texture",
+      "data": {
+        "texture": "prominent:textures/item/artifacts/orion/star_s4.png"
+      }
+    },
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "eldritch_end:corruption_resistance",
+          "value": 20,
+          "operation": "addition"
+        }
+      },
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "prominent:artifact_phase",
+          "value": 1,
+          "operation": "addition"
+        }
+      }
+    ],
+    "metadata": {
+      "icon": "n241yslto644cv8k"
+    }
+  },
+  "pledge+mintaka": {
+    "title": "§dОбет: §bМинтака",
+    "description": "§7Посвятите силу клинка §5Орион §7звезде Минтака, даруя её ледяной дар.\n \n§f勒§b +10 §7Сила льда\n \n§f鹿 §bДар Минтаки\n§7Увеличивает урон ваших способностей из книги заклинаний §bУжас Минтаки§7.",
+    "size": 1.5,
+    "frame": {
+      "type": "texture",
+      "data": {
+        "unlocked": "prominent_talents:textures/frames/diamond_selected.png",
+        "available": "prominent_talents:textures/frames/diamond.png"
+      }
+    },
+    "icon": {
+      "type": "texture",
+      "data": {
+        "texture": "prominent:textures/item/artifacts/orion/star_s4.png"
+      }
+    },
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "spell_power:frost",
+          "value": 10,
+          "operation": "addition"
+        }
+      },
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "prominent:artifact_phase",
+          "value": 2,
+          "operation": "addition"
+        }
+      }
+    ],
+    "metadata": {
+      "icon": "n241yslto644cv8k"
+    }
+  },
+  "pledge+alnilam": {
+    "title": "§dОбет: §cАльнилам",
+    "description": "§7Посвятите силу клинка §5Орион §7звезде Альнилам, даруя её смертоносный дар.\n \n§f凌§2 +5 §7Урон дальнего боя\n§f凌§2 +10% §7Скорость натяжения\n \n§f鹿 §cДар Альнилама\n§7Увеличивает урон ваших способностей из книги заклинаний §cВзор Альнилама§7.",
+    "size": 1.5,
+    "frame": {
+      "type": "texture",
+      "data": {
+        "unlocked": "prominent_talents:textures/frames/diamond_selected.png",
+        "available": "prominent_talents:textures/frames/diamond.png"
+      }
+    },
+    "icon": {
+      "type": "texture",
+      "data": {
+        "texture": "prominent:textures/item/artifacts/orion/star_s4.png"
+      }
+    },
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "ranged_weapon:haste",
+          "value": 0.1,
+          "operation": "multiply_base"
+        }
+      },
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "ranged_weapon:damage",
+          "value": 5,
+          "operation": "addition"
+        }
+      },
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "prominent:artifact_phase",
+          "value": 3,
+          "operation": "addition"
+        }
+      }
+    ],
+    "metadata": {
+      "icon": "n241yslto644cv8k"
+    }
+  },
+  "pledge+alnitak": {
+    "title": "§dОбет: §6Альнитак",
+    "description": "§7Посвятите силу клинка §5Орион §7звезде Альнитак, даруя её пылающий дар.\n \n§f縷§6 +10 §7Сила огня\n \n§f鹿 §6Дар Альнитака\n§7Увеличивает урон ваших способностей из книги заклинаний §6Мощь Альнитака§7.",
+    "size": 1.5,
+    "frame": {
+      "type": "texture",
+      "data": {
+        "unlocked": "prominent_talents:textures/frames/diamond_selected.png",
+        "available": "prominent_talents:textures/frames/diamond.png"
+      }
+    },
+    "icon": {
+      "type": "texture",
+      "data": {
+        "texture": "prominent:textures/item/artifacts/orion/star_s4.png"
+      }
+    },
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "spell_power:fire",
+          "value": 10,
+          "operation": "addition"
+        }
+      },
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "prominent:artifact_phase",
+          "value": 4,
+          "operation": "addition"
+        }
+      }
+    ],
+    "metadata": {
+      "icon": "n241yslto644cv8k"
+    }
+  },
+  "nebula-horsehead": {
+    "title": "§f鹿 §cМощь Туманности Конская Голова",
+    "description": "§5Орион §7и ваши способности лука наносят больше урона верхом на лошади или мифическом кошмаре.\n \n§f凌 §2+20% §7Урон дальнего боя верхом",
+    "size": 1,
+    "frame": {
+      "type": "texture",
+      "data": {
+        "unlocked": "prominent_talents:textures/frames/diamond_selected.png",
+        "available": "prominent_talents:textures/frames/diamond.png"
+      }
+    },
+    "icon": {
+      "type": "texture",
+      "data": {
+        "texture": "prominent:textures/item/artifacts/orion/star_s1.png"
+      }
+    },
+    "rewards": [],
+    "metadata": {
+      "icon": "ym2jddo77nhmeb1n"
+    }
+  },
+  "nebula-orion": {
+    "title": "§f鹿 §dСила Туманности Ориона",
+    "description": "§7Ваша связь крепнет: §5Орион §7усилен, отчего выпущенные стрелы летят быстрее ценой замедления скорости натяжения.\n \n§f凌 §2+5% §7Скорость стрел\n§f凌 §2-10% §7Скорость натяжения",
+    "size": 1,
+    "frame": {
+      "type": "texture",
+      "data": {
+        "unlocked": "prominent_talents:textures/frames/diamond_selected.png",
+        "available": "prominent_talents:textures/frames/diamond.png"
+      }
+    },
+    "icon": {
+      "type": "texture",
+      "data": {
+        "texture": "prominent:textures/item/artifacts/orion/star_s1.png"
+      }
+    },
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "zenith_attributes:arrow_velocity",
+          "value": 0.05,
+          "operation": "multiply_base"
+        }
+      },
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "ranged_weapon:haste",
+          "value": -0.1,
+          "operation": "multiply_base"
+        }
+      }
+    ],
+    "metadata": {
+      "icon": "we3zt8lq8rng3p2h"
+    }
+  },
+  "nebula-casper": {
+    "title": "§f鹿 §dКаспер, Добрый Призрак",
+    "description": "§7Пассивный эффект Зоны Концентрации теперь также применяется при использовании следующих способностей у §5Орион§7:\n \n§7- §bКристальная Стрела §8(Ужас Минтаки)\n§7- §cУдушающий Газ §8(Взор Альнилама)\n§7- §6Пригвоздить §8(Мощь Альнитака)§7\n \n§cТребуемый талант: §7Зона Концентрации",
+    "size": 1,
+    "frame": {
+      "type": "texture",
+      "data": {
+        "unlocked": "prominent_talents:textures/frames/diamond_selected.png",
+        "available": "prominent_talents:textures/frames/diamond.png"
+      }
+    },
+    "icon": {
+      "type": "texture",
+      "data": {
+        "texture": "prominent:textures/item/artifacts/orion/star_s1.png"
+      }
+    },
+    "rewards": [],
+    "metadata": {
+      "icon": "we3zt8lq8rng3p2h"
+    }
+  }
+}

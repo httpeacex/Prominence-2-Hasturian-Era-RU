@@ -1,0 +1,132 @@
+{
+  "holypower": {
+    "title": "§f綾 §e+3%§7 Сила света",
+    "frame": {
+      "type": "texture",
+      "data": {
+        "unlocked": "prominent_talents:textures/frames/diamond_selected.png",
+        "available": "prominent_talents:textures/frames/diamond.png"
+      }
+    },
+    "icon": {
+      "type": "texture",
+      "data": {
+        "texture": "prominent:textures/icon/talent_tree/magic_type/holy.png"
+      }
+    },
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "spell_power:healing",
+          "value": 0.03,
+          "operation": "multiply_base"
+        }
+      }
+    ],
+    "editor-color": "#ff00a6",
+    "metadata": {
+      "icon": "vt5q3v2tr9v4ow8e"
+    }
+  },
+  "maxhleath": {
+    "title": "§f牢 §c+5% §7Максимальное здоровье",
+    "frame": {
+      "type": "texture",
+      "data": {
+        "unlocked": "prominent_talents:textures/frames/diamond_selected.png",
+        "available": "prominent_talents:textures/frames/diamond.png"
+      }
+    },
+    "icon": {
+      "type": "texture",
+      "data": {
+        "texture": "prominent:textures/icon/talent_tree/health.png"
+      }
+    },
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "generic.max_health",
+          "value": 0.05,
+          "operation": "multiply_base"
+        }
+      }
+    ],
+    "editor-color": "#ff00a6",
+    "metadata": {
+      "icon": "vt5q3v2tr9v4ow8e"
+    }
+  },
+  "oath_of_healing": {
+    "title": "§f鹿 §6Обет Исцеления",
+    "description": "§7Обет защищать союзников, исцеляя их в бою. \n \n§7После применения Божественной Кары накладывает на союзников в радиусе 16 блоков исцеление во времени, восстанавливающее им 15% максимального здоровья за 5 секунд.\n \n§f綾 §6+20%§7 Сила света",
+    "size": 1.5,
+    "frame": {
+      "type": "texture",
+      "data": {
+        "unlocked": "prominent_talents:textures/frames/diamond_selected.png",
+        "available": "prominent_talents:textures/frames/diamond.png"
+      }
+    },
+    "icon": {
+      "type": "texture",
+      "data": {
+        "texture": "paladins:textures/item/priest_spell_book.png"
+      }
+    },
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "spell_power:healing",
+          "value": 0.2,
+          "operation": "multiply_base"
+        }
+      }
+    ],
+    "metadata": {
+      "icon": "p3yfct8acclxc8cs"
+    }
+  },
+  "oath_of_protection": {
+    "title": "§f鹿 §6Обет Защиты",
+    "description": "§7Обет защищать союзников, принимая урон за них. \n \n§7После применения Божественной Кары исцеляет вас на 25% максимального здоровья.\n \n§f綾 §e+10%§7 Сила света\n§f聾 §e+10% §7Эффективность брони",
+    "size": 1.5,
+    "frame": {
+      "type": "texture",
+      "data": {
+        "unlocked": "prominent_talents:textures/frames/diamond_selected.png",
+        "available": "prominent_talents:textures/frames/diamond.png"
+      }
+    },
+    "icon": {
+      "type": "texture",
+      "data": {
+        "texture": "paladins:textures/item/paladin_spell_book.png"
+      }
+    },
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "spell_power:healing",
+          "value": 0.1,
+          "operation": "multiply_base"
+        }
+      },
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "generic.armor",
+          "value": 0.1,
+          "operation": "multiply_base"
+        }
+      }
+    ],
+    "metadata": {
+      "icon": "p3yfct8acclxc8cs"
+    }
+  }
+}

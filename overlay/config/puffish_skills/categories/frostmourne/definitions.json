@@ -1,0 +1,326 @@
+{
+  "artifact_damage": {
+    "title": "§f弄 §6+5% §7Урон оружия: §bЛедяная Скорбь",
+    "frame": {
+      "type": "texture",
+      "data": {
+        "unlocked": "prominent_talents:textures/frames/diamond_selected.png",
+        "available": "prominent_talents:textures/frames/diamond.png"
+      }
+    },
+    "icon": {
+      "type": "texture",
+      "data": {
+        "texture": "simplyskills:textures/icons/prom_compat/frost.png"
+      }
+    },
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "prominent:artifact_damage",
+          "value": 0.05,
+          "operation": "addition"
+        }
+      }
+    ],
+    "editor-color": "#ff00a6",
+    "metadata": {
+      "icon": "vt5q3v2tr9v4ow8e"
+    }
+  },
+  "atkspeed": {
+    "title": "§f籠 §e+10% §7Скорость",
+    "frame": {
+      "type": "texture",
+      "data": {
+        "unlocked": "prominent_talents:textures/frames/diamond_selected.png",
+        "available": "prominent_talents:textures/frames/diamond.png"
+      }
+    },
+    "icon": {
+      "type": "texture",
+      "data": {
+        "texture": "simplyskills:textures/icons/prom_compat/attack_speed.png"
+      }
+    },
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "generic.attack_speed",
+          "value": 0.1,
+          "operation": "multiply_base"
+        }
+      }
+    ],
+    "editor-color": "#ff00a6",
+    "metadata": {
+      "icon": "iuz98xp1xuxsssdv"
+    }
+  },
+  "melee_damage": {
+    "title": "§f弄 §6+5% §7Физический урон",
+    "frame": {
+      "type": "texture",
+      "data": {
+        "unlocked": "prominent_talents:textures/frames/diamond_selected.png",
+        "available": "prominent_talents:textures/frames/diamond.png"
+      }
+    },
+    "icon": {
+      "type": "texture",
+      "data": {
+        "texture": "simplyskills:textures/icons/prom_compat/attack.png"
+      }
+    },
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "generic.attack_damage",
+          "value": 0.05,
+          "operation": "multiply_total"
+        }
+      }
+    ],
+    "editor-color": "#00efff",
+    "metadata": {
+      "icon": "0t1l4wesv67w4zpo"
+    }
+  },
+  "frost": {
+    "title": "§f勒 §b+5% §7Сила льда",
+    "description": "§f籠 §e+5% §7Скорость",
+    "frame": {
+      "type": "texture",
+      "data": {
+        "unlocked": "prominent_talents:textures/frames/diamond_selected.png",
+        "available": "prominent_talents:textures/frames/diamond.png"
+      }
+    },
+    "icon": {
+      "type": "texture",
+      "data": {
+        "texture": "death_knights:textures/item/jewelry/frost_dk_ring.png"
+      }
+    },
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "spell_power:frost",
+          "value": 0.05,
+          "operation": "multiply_base"
+        }
+      },
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "generic.attack_speed",
+          "value": 0.05,
+          "operation": "multiply_total"
+        }
+      }
+    ],
+    "editor-color": "#00ffff",
+    "metadata": {
+      "icon": "gf315xif2stdqahr"
+    }
+  },
+  "unholy": {
+    "title": "§f凜 §2+5% §7Сила нечестивости",
+    "description": "§f弄 §6+5% §7Физический урон",
+    "frame": {
+      "type": "texture",
+      "data": {
+        "unlocked": "prominent_talents:textures/frames/diamond_selected.png",
+        "available": "prominent_talents:textures/frames/diamond.png"
+      }
+    },
+    "icon": {
+      "type": "texture",
+      "data": {
+        "texture": "death_knights:textures/item/jewelry/unholy_dk_ring.png"
+      }
+    },
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "eternal_attributes:unholy",
+          "value": 0.05,
+          "operation": "multiply_base"
+        }
+      },
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "generic.attack_damage",
+          "value": 0.05,
+          "operation": "multiply_total"
+        }
+      }
+    ],
+    "editor-color": "#00ffff",
+    "metadata": {
+      "icon": "gf315xif2stdqahr"
+    }
+  },
+  "blood": {
+    "title": "§f肋 §c+5% §7Сила крови",
+    "description": "§f牢 §c+5% §7Максимальное здоровье",
+    "frame": {
+      "type": "texture",
+      "data": {
+        "unlocked": "prominent_talents:textures/frames/diamond_selected.png",
+        "available": "prominent_talents:textures/frames/diamond.png"
+      }
+    },
+    "icon": {
+      "type": "texture",
+      "data": {
+        "texture": "death_knights:textures/item/jewelry/blood_dk_ring.png"
+      }
+    },
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "eternal_attributes:blood",
+          "value": 0.05,
+          "operation": "multiply_base"
+        }
+      },
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "generic.max_health",
+          "value": 0.05,
+          "operation": "multiply_total"
+        }
+      }
+    ],
+    "editor-color": "#00ffff",
+    "metadata": {
+      "icon": "gf315xif2stdqahr"
+    }
+  },
+  "infusion_etyr": {
+    "title": "§f鹿 §cУчения Син'дорай",
+    "description": "§7Наполнить §bЛедяная Скорбь §7Кровавыми Рунами Этира, даруя владельцу повышенное сопротивление эффектам порчи.\n \n§fꬁ §2+20 §7Сопротивление порче\n§f肋 §c+5 §7Сила крови",
+    "size": 1.25,
+    "frame": {
+      "type": "texture",
+      "data": {
+        "unlocked": "prominent_talents:textures/frames/diamond_selected.png",
+        "available": "prominent_talents:textures/frames/diamond.png"
+      }
+    },
+    "icon": {
+      "type": "texture",
+      "data": {
+        "texture": "death_knights:textures/item/runes/blood_stone.png"
+      }
+    },
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "eldritch_end:corruption_resistance",
+          "value": 20,
+          "operation": "addition"
+        }
+      },
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "eternal_attributes:blood",
+          "value": 5,
+          "operation": "addition"
+        }
+      }
+    ],
+    "metadata": {
+      "icon": "n241yslto644cv8k"
+    }
+  },
+  "infusion_corruption": {
+    "title": "§f鹿 §2Некротическое Наполнение",
+    "description": "§7Наполнить §bЛедяная Скорбь §7Порчеными Рунами Нечестивости, отчего он наносит больше урона нечестивостью.\n \n§fꦘ §9+20§7 Порча\n§f凜 §2+5 §7Сила нечестивости",
+    "size": 1.25,
+    "frame": {
+      "type": "texture",
+      "data": {
+        "unlocked": "prominent_talents:textures/frames/diamond_selected.png",
+        "available": "prominent_talents:textures/frames/diamond.png"
+      }
+    },
+    "icon": {
+      "type": "texture",
+      "data": {
+        "texture": "death_knights:textures/item/runes/unholy_stone.png"
+      }
+    },
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "eldritch_end:corruption",
+          "value": 20,
+          "operation": "addition"
+        }
+      },
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "eternal_attributes:unholy",
+          "value": 5,
+          "operation": "addition"
+        }
+      }
+    ],
+    "metadata": {
+      "icon": "84gbvkh5a1gaber3"
+    }
+  },
+  "infusion_corruption_2": {
+    "title": "§f鹿 §bЛедяное Наполнение",
+    "description": "§7Наполнить §bЛедяная Скорбь §7Порчеными Рунами Льда, отчего он наносит больше урона льдом.\n \n§fꦘ §9+20§7 Порча\n§f勒 §b+5 §7Сила льда",
+    "size": 1.25,
+    "frame": {
+      "type": "texture",
+      "data": {
+        "unlocked": "prominent_talents:textures/frames/diamond_selected.png",
+        "available": "prominent_talents:textures/frames/diamond.png"
+      }
+    },
+    "icon": {
+      "type": "texture",
+      "data": {
+        "texture": "runes:textures/item/frost_stone.png"
+      }
+    },
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "eldritch_end:corruption",
+          "value": 20,
+          "operation": "addition"
+        }
+      },
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "spell_power:frost",
+          "value": 5,
+          "operation": "addition"
+        }
+      }
+    ],
+    "metadata": {
+      "icon": "84gbvkh5a1gaber3"
+    }
+  }
+}
