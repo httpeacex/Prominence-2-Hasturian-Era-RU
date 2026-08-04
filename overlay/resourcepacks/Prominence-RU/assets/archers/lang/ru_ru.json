@@ -16,5 +16,6 @@
   "advancements.rpg_series.path_choose_archer.title": "Путь лучника",
   "advancements.rpg_series.path_choose_archer.description": "Создайте Руководство лучника",
   "advancements.rpg_series.spell_novice_archer.title": "Смертоносные выстрелы",
-  "advancements.rpg_series.spell_novice_archer.description": "Получите своё первое умение лучника"
+  "advancements.rpg_series.spell_novice_archer.description": "Получите своё первое умение лучника",
+  "itemGroup.archers.general": "Archers"
 }

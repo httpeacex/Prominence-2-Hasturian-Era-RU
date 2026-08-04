@@ -1,0 +1,17 @@
+{
+  "block.alloy_forgery.prismarine_bricks_forge_controller": "Призмариновый контроллер горна",
+  "tooltip.alloy_forgery.invalid_tier": "Для этого рецепта нужен контроллер горна уровня %d",
+  "container.alloy_forgery.rei.button": "Переключить замену уровней",
+  "itemGroup.alloy_forgery.alloy_forgery": "Alloy Forgery",
+  "itemGroup.alloy_forgery.alloy_forgery.button.discord": "Discord",
+  "itemGroup.alloy_forgery.alloy_forgery.button.curseforge": "CurseForge",
+  "itemGroup.alloy_forgery.alloy_forgery.button.modrinth": "Modrinth",
+  "itemGroup.alloy_forgery.alloy_forgery.button.github": "GitHub",
+  "emi.category.alloy_forgery.alloy_forge": "Плавка сплавов",
+  "tag.item.c.copper_ores": "Медные руды",
+  "tag.item.c.iron_ores": "Железные руды",
+  "tag.item.c.gold_ores": "Золотые руды",
+  "tag.item.c.raw_copper_blocks": "Блоки рудной меди",
+  "tag.item.c.raw_iron_blocks": "Блоки рудного железа",
+  "tag.item.c.raw_gold_blocks": "Блоки рудного золота"
+}

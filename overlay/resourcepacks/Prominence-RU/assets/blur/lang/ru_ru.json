@@ -1,0 +1,9 @@
+{
+  "blur.midnightconfig.category.style": "Стиль",
+  "blur.midnightconfig.category.screens": "Экраны",
+  "blur.midnightconfig.fadeOutTimeMillis": "Время затухания (в миллисекундах)",
+  "blur.midnightconfig.ease": "Плавность анимации",
+  "blur.midnightconfig.gradientStartAlpha": "Начальная прозрачность градиента",
+  "blur.midnightconfig.gradientEndAlpha": "Конечная прозрачность градиента",
+  "blur.midnightconfig.showScreenTitle": "Заголовок экрана в логах"
+}

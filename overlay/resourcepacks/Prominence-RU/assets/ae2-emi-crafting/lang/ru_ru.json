@@ -1,0 +1,16 @@
+{
+  "ae2-emi-crafting.category_condenser": "Конденсатор материи",
+  "ae2-emi-crafting.category_inscriber": "Гравёр",
+  "ae2-emi-crafting.category_attunement": "Настройка P2P-туннеля",
+  "ae2-emi-crafting.category_transform": "Преобразование в мире",
+  "ae2-emi-crafting.category_charger": "Зарядное устройство",
+  "ae2-emi-crafting.category_entropy_manipulator": "Манипулятор энтропии",
+  "ae2-emi-crafting.error.crafting.storage_terminal": "Невозможно создать с помощью терминала хранения ME",
+  "text.autoconfig.ae2-emi-crafting.title": "Интеграция AE2 с EMI-крафтом",
+  "text.autoconfig.ae2-emi-crafting.category.emi": "EMI",
+  "text.autoconfig.ae2-emi-crafting.category.integration": "Интеграция модов",
+  "text.autoconfig.ae2-emi-crafting.option.bomsync": "Синхронизация спецификации материалов",
+  "text.autoconfig.ae2-emi-crafting.option.bomsync.@Tooltip": "Позволяет EMI считывать содержимое системы ME",
+  "text.autoconfig.ae2-emi-crafting.option.exmi": "Дополнительные интеграции модов",
+  "text.autoconfig.ae2-emi-crafting.option.exmi.@Tooltip": "Отключает регистрацию рецептов ExMI для AE2"
+}

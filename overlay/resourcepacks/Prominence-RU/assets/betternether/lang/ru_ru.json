@@ -159,5 +159,6 @@
   "tag.betternether.willow_logs": "Ивовые брёвна",
   "upgrade.betternether.bowl_upgrade": "Незеритовое улучшение жаровни",
   "upgrade.betternether.cincinnasite_diamond_upgrade": "Алмазное улучшение цинцинназитового снаряжения",
-  "upgrade.betternether.flaming_ruby_upgrade": "Огнерубиновое улучшение"
+  "upgrade.betternether.flaming_ruby_upgrade": "Огнерубиновое улучшение",
+  "advancements.betternether.root.title": "BetterNether"
 }

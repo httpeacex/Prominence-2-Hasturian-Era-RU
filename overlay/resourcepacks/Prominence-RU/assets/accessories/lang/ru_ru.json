@@ -1,0 +1,13 @@
+{
+  "text.autoconfig.accessories.option.clientData.hoverOptions": "Настройки наведения",
+  "text.autoconfig.accessories.option.clientData.hoverOptions.hoveredOptions": "При наведении",
+  "text.autoconfig.accessories.option.clientData.hoverOptions.hoveredOptions.brightenHovered": "Подсвечивать при наведении",
+  "text.autoconfig.accessories.option.clientData.hoverOptions.hoveredOptions.cycleBrightness": "Циклическая яркость",
+  "text.autoconfig.accessories.option.clientData.hoverOptions.hoveredOptions.line": "Рисовать линию",
+  "text.autoconfig.accessories.option.clientData.hoverOptions.hoveredOptions.clickbait": "Приманка",
+  "text.autoconfig.accessories.option.clientData.hoverOptions.unHoveredOptions": "Без наведения",
+  "text.autoconfig.accessories.option.clientData.hoverOptions.unHoveredOptions.renderUnHovered": "Отображать без наведения",
+  "text.autoconfig.accessories.option.clientData.hoverOptions.unHoveredOptions.darkenUnHovered": "Затемнять без наведения",
+  "text.autoconfig.accessories.option.clientData.hoverOptions.unHoveredOptions.darkenedBrightness": "Яркость затемнения",
+  "text.autoconfig.accessories.option.clientData.hoverOptions.unHoveredOptions.darkenedOpacity": "Непрозрачность затемнения"
+}

@@ -1,0 +1,5 @@
+{
+  "key.amecs.alternative_escape": "Escape (альтернативная клавиша)",
+  "amecs.search.placeholder": "Поиск... (= для поиска по клавише, =%% для конфликтов)",
+  "amecs.search.no_results": "Ничего не найдено"
+}

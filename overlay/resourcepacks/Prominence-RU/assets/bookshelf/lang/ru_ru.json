@@ -1,0 +1,6 @@
+{
+  "commands.bookshelf.loot_tables": "Найдено отсутствующих таблиц добычи: %d для %s.",
+  "commands.bookshelf.loot_tables.wildcard": "Найдено отсутствующих таблиц добычи: %d для всех модов.",
+  "argument.bookshelf.unknown_value": "Значение '%s' неизвестно.",
+  "text.bookshelf.ticks": "Тики: %s"
+}

@@ -1,0 +1,7 @@
+{
+  "text.autoconfig.bettercombat.title": "Better Combat",
+  "text.autoconfig.bettercombat.option.client.mineWithWeaponBlacklist": "Чёрный список добычи оружием",
+  "text.autoconfig.bettercombat.option.client.mineWithWeaponBlacklist.@Tooltip": "Оружие с ID, совпадающим с этим регулярным выражением, никогда не будет использоваться для добычи блоков",
+  "text.autoconfig.bettercombat.option.client.firstPersonAnimations": "Анимации игрока от первого лица",
+  "text.autoconfig.bettercombat.option.client.firstPersonAnimations.@Tooltip": "Показывать анимации атаки игрока. Менять рекомендуется только при использовании модов с особой камерой."
+}

@@ -1,0 +1,8 @@
+{
+  "text.autoconfig.chat_heads.title": "Chat Heads",
+  "text.autoconfig.chat_heads.option.threeDeeNess": "Объёмность",
+  "text.autoconfig.chat_heads.option.threeDeeNess.@Tooltip": "Отрисовывает слой шляпы немного крупнее,\nчтобы головы в чате выглядели менее плоскими.\nМожет вызвать некоторые проблемы с отрисовкой.\nВойдите в мир, чтобы увидеть предпросмотр!",
+  "text.autoconfig.chat_heads.option.detectNameAliases": "Автоопределение псевдонимов",
+  "text.autoconfig.chat_heads.option.detectNameAliases.@Tooltip": "Будет искать ответы на команды /realname на\nсерверах EssentialsX и автоматически добавлять для них псевдоним.",
+  "text.autoconfig.chat_heads.option.drawShadow": "Отрисовывать тень"
+}

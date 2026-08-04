@@ -1,0 +1,21 @@
+{
+  "_comment0": "Note to translators: DO NOT COPY ENTRIES FROM ENGLISH",
+  "itemGroup.botania": "Botania",
+  "botania.rank5": "§6SS",
+  "botania.roman0": "",
+  "botania.roman8": "VIII",
+  "botania.roman13": "XIII",
+  "botania.roman17": "XVII",
+  "botania.roman18": "XVIII",
+  "botania.roman22": "XXII",
+  "botania.roman23": "XXIII",
+  "botania.roman24": "XXIV",
+  "botania.roman26": "XXVI",
+  "botania.roman27": "XXVII",
+  "botania.roman28": "XXVIII",
+  "botania.roman29": "XXIX",
+  "botania.page.dandelifeon8": "$(o)CellCraft^2$().",
+  "botania.page.elfMessage0": "",
+  "botania.page.headCreating3": "Замена бирки на $(item)подписанную книгу$(0) (копии тоже работают) позволяет вложить в процесс ещё больше информации:$(p)Если на тайном языке $(thing)Base64$(0) известен секретный код, вызывающий прошлый $(thing)скин$(0), его можно записать в книгу, чтобы вызвать этот конкретный исторический облик головы $(thing)игрока$(0).",
+  "botania.subtitle.way": "O-oooooooooo AAAAE-A-A-I-A-U-JO-oooooooooooo AAE-O-A-A-U-U-A-E-eee-ee-eee AAAAE-A-E-I-E-A-JO-ooo-oo-oo-oo EEEEO-A-AAA-AAAA O-oooooooooo AAAAE-A-A-I-A-U-JO-oooooooooooo AAE-O-A-A-U-U-A-E-eee-ee-eee AAAAE-A-E-I-E-A-JO-ooo-oo-oo-oo EEEEO-A-AAA-AAAA O-oooooooooo AAAAE-A-A-I-A-U-JO-oooooooooooo AAE-O-A-A-U-U-A-E-eee-ee-eee AAAAE-A-E-I-E-A-JO-ooo-oo-oo-oo EEEEO-A-AAA-AAAA"
+}

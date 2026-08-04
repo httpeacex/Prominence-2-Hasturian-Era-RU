@@ -1,0 +1,12 @@
+{
+  "text.autoconfig.appleskin.option.showFoodValuesInTooltip.@Tooltip": "Если включено, показывает значения голода и насыщения еды в её подсказке при удержании SHIFT",
+  "text.autoconfig.appleskin.option.showFoodValuesInTooltipAlways.@Tooltip": "Если включено, показывает значения голода и насыщения еды в её подсказке автоматически (без удержания SHIFT)",
+  "text.autoconfig.appleskin.option.showFoodValuesHudOverlay.@Tooltip": "Если включено, показывает голод (и насыщение, если showSaturationHudOverlay включено), который восстановит еда, что вы сейчас держите",
+  "text.autoconfig.appleskin.option.showFoodValuesHudOverlayWhenOffhand.@Tooltip": "Если включено, показывает наложения голода/насыщения/здоровья для еды во второй руке",
+  "text.autoconfig.appleskin.option.showFoodHealthHudOverlay.@Tooltip": "Если включено, показывает на полосе здоровья примерное здоровье, восстанавливаемое едой",
+  "text.autoconfig.appleskin.option.showFoodExhaustionHudUnderlay.@Tooltip": "Если включено, показывает вашу усталость от еды в виде полосы прогресса за полосой голода",
+  "text.autoconfig.appleskin.option.showSaturationHudOverlay.@Tooltip": "Если включено, показывает ваш текущий уровень насыщения наложенным на полосу голода",
+  "text.autoconfig.appleskin.option.showFoodDebugInfo.@Tooltip": "Если включено, показывает ваш голод, насыщение и уровень усталости на экране отладки",
+  "text.autoconfig.appleskin.option.showVanillaAnimationsOverlay.@Tooltip": "Если включено, наложение здоровья/голода будет дрожать в такт анимациям иконок Minecraft",
+  "text.autoconfig.appleskin.option.maxHudOverlayFlashAlpha.@Tooltip": "Значение прозрачности мигающих иконок в момент наибольшей видимости (1.0 = полностью непрозрачно, 0.0 = полностью прозрачно)"
+}

@@ -1,0 +1,5 @@
+{
+  "block.barteringstation.bartering_station": "Меновая станция",
+  "container.barteringstation.bartering_station": "Меновая станция",
+  "gui.barteringstation.bartering_station.piglins": "Поблизости найдено пиглинов для обмена: %s"
+}

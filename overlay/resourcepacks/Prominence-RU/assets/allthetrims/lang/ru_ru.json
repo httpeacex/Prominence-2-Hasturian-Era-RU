@@ -1,0 +1,19 @@
+{
+  "text.allthetrims.material": "Материал: %s",
+  "tooltip.elytratrims.missing": "§cДля отображения узора требуется Elytra Trims",
+  "emi.category.allthetrims.smithing": "Нанесение узора на броню",
+  "item.allthetrims.dummy_armour": "Любая броня",
+  "item.allthetrims.dummy_trimmed_armour": "Любая броня с узором",
+  "item.allthetrims.dummy_material": "Любой материал",
+  "item.allthetrims.dummy_trim_template": "Любой шаблон узора",
+  "yacl.allthetrims.title": "Настройки All The Trims",
+  "yacl.allthetrims.category.general": "Основные",
+  "yacl.allthetrims.tooltip.general": "Основные настройки",
+  "yacl.allthetrims.group.main": "Главное",
+  "yacl.allthetrims.description.main": "Главные настройки",
+  "yacl.allthetrims.description.debug1": "Переключить режим отладки",
+  "yacl.allthetrims.description.debug2": "При включении в папке игры будут создаваться файлы отладки",
+  "yacl.allthetrims.description.debug3": "§cТребует перезапуска и входа в мир для создания файлов отладки",
+  "yacl.allthetrims.name.debug": "Отладка",
+  "allthetrims.website": "Мой сайт"
+}

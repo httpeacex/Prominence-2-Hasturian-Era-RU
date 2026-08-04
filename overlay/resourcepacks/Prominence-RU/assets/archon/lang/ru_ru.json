@@ -13,5 +13,8 @@
   "text.archon.summon_none": "Призыв: Пусто",
   "text.archon.undead.power": "Сила душ: %s",
   "text.archon.undead.souls": "Души: %s",
-  "text.archon.no_summons": "У этого посоха нет призывов!"
+  "text.archon.no_summons": "У этого посоха нет призывов!",
+  "itemGroup.archon.archon": "Archon",
+  "category.archon.archon": "Archon",
+  "advancements.archon.root.title": "Archon"
 }

@@ -180,5 +180,8 @@
   "text.autoconfig.adventurez.option.allow_other_dragon_hatching": "Разрешить вылупление других драконов",
   "text.autoconfig.adventurez.option.gilded_netherite_armor_effect_duration": "Продолжительность эффекта позолоченной незеритовой брони",
   "text.autoconfig.adventurez.option.gilded_netherite_armor_dodge_chance": "Шанс уклонения от позолоченной незеритовой брони",
-  "text.autoconfig.adventurez.option.allow_gilded_blackstone_shard_throw": "Разрешить бросок позолоченного осколка черного камня"
+  "text.autoconfig.adventurez.option.allow_gilded_blackstone_shard_throw": "Разрешить бросок позолоченного осколка черного камня",
+  "item.adventurez.item_group": "AdventureZ",
+  "block.adventurez.piglin_flag.tooltip": "§7Время зарядки (2:00)",
+  "text.autoconfig.adventurez.option.mini_blackstone_golem_spawn_weight": "Вес появления мини-голема из чернокамня"
 }

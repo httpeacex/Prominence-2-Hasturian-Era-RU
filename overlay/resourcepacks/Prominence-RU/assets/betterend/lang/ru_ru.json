@@ -1,0 +1,20 @@
+{
+  "advancements.betterend.root.title": "BetterEnd",
+  "item.betterend.debug.biome_loot": "Добыча биома [dev]",
+  "item.betterend.debug.fill_air": "Заменить воздух в границах блока структуры [dev]",
+  "item.betterend.debug.fill_base_void": "Заменить эндерняк в границах блока структуры [dev]",
+  "item.betterend.debug.jigsaw_big_deco": "Большое украшение [dev]",
+  "item.betterend.debug.jigsaw_deco": "Малое украшение [dev]",
+  "item.betterend.debug.jigsaw_entrance": "Вход [dev]",
+  "item.betterend.debug.jigsaw_street": "Улица [dev]",
+  "item.betterend.debug.jigsaw_street_big_deco": "Заполнитель — большое украшение [dev]",
+  "item.betterend.debug.jigsaw_street_deco": "Заполнитель — малое украшение [dev]",
+  "item.betterend.debug.jigsaw_street_entrance": "Заполнитель — вход [dev]",
+  "item.betterend.debug.village_bonus": "Бонусная добыча деревни [dev]",
+  "item.betterend.debug.village_loot": "Добыча деревни [dev]",
+  "item.betterend.debug.village_template": "Добыча шаблона деревни [dev]",
+  "item.betterend.music_disc_endseeker.desc": "§5Firel§r - §fEndseeker§r",
+  "item.betterend.music_disc_eo_dracona.desc": "§5Firel§r - §fEo Dracona§r",
+  "item.betterend.music_disc_grasping_at_stars.desc": "§5Firel§r - §fGrasping At Stars§r",
+  "item.betterend.music_disc_strange_and_alien.desc": "§5Firel§r - §fStrange And Alien§r"
+}
