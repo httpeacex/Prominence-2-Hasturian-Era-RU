@@ -1,0 +1,15 @@
+{
+  "effect.more_rpg_classes.bleeding": "Кровотечение",
+  "effect.more_rpg_classes.bleeding.description": "Наносит переодический урон.",
+  "death.attack.mrpgc.bleeding": "%1$s истёк кровью.",
+  "death.attack.mrpgc.molten": "%1$s сгорел в своей раскалённой броне.",
+  "advancements.more_rpg_content.root.title": "Больше РПГ контента!",
+  "enchantment.more_rpg_classes.elemental": "Повелитель стихий",
+  "enchantment.more_rpg_classes.elemental.desc": "Увеличивает урон от всех видов стихийной магии",
+  "enchantment.more_rpg_classes.air_mastery": "Повелитель воздуха",
+  "enchantment.more_rpg_classes.air_mastery.desc": "Увеличивает урон от заклинаний воздуха",
+  "enchantment.more_rpg_classes.earth_mastery": "Повелитель земли",
+  "enchantment.more_rpg_classes.earth_mastery.desc": "Увеличивает урон от заклинаний земли",
+  "enchantment.more_rpg_classes.water_mastery": "Повелитель воды",
+  "enchantment.more_rpg_classes.water_mastery.desc": "Увеличивает урон от заклинаний воды"
+}

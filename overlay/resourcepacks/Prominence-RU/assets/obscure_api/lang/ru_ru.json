@@ -1,0 +1,14 @@
+{
+  "effect.obscure_api.fury.desc": "Каждый уровень увеличивает силу способностей класса на 10%.",
+  "effect.obscure_api.fury.description": "Каждый уровень увеличивает силу способностей класса на 10%.",
+  "effect.obscure_api.knowledge.desc": "Отображает скрытую информацию о некоторых предметах в их подсказках.",
+  "effect.obscure_api.knowledge.description": "Отображает скрытую информацию о некоторых предметах в их подсказках.",
+  "effect.obscure_api.rush.desc": "Каждый уровень снижает время перезарядки способностей класса на 10%.",
+  "effect.obscure_api.rush.description": "Каждый уровень снижает время перезарядки способностей класса на 10%.",
+  "enchantment.obscure_api.distance.desc": "Увеличивает дистанцию полёта снаряда.",
+  "enchantment.obscure_api.distance.description": "Увеличивает дистанцию полёта снаряда.",
+  "enchantment.obscure_api.fast_spin.desc": "Увеличивает скорость полёта снаряда.",
+  "enchantment.obscure_api.fast_spin.description": "Увеличивает скорость полёта снаряда.",
+  "enchantment.obscure_api.mirror.desc": "Дублирует снаряд, но каждый дубликат наносит лишь 50% урона.",
+  "enchantment.obscure_api.mirror.description": "Дублирует снаряд, но каждый дубликат наносит лишь 50% урона."
+}
