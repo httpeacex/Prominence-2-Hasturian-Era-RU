@@ -1,0 +1,22 @@
+{
+  "emi_loot.emi_loot_config.splitChestLootByTrial": "Выделять добычу испытаний",
+  "emi_loot.emi_loot_config.splitChestLootByTrial.desc": "Если включено, таблицы добычи сундуков с 'trial_chamber' в идентификаторе выделяются в отдельную категорию комнаты испытаний",
+  "emi_loot.emi_loot_config.directDrops.chestLoot": "Включать прямую добычу сундуков",
+  "emi_loot.emi_loot_config.directDrops.chestLoot.desc": "Включать ли в таблицы добычи сундуков вручную добавленную «прямую добычу»",
+  "emi_loot.emi_loot_config.directDrops.blockLoot": "Включать прямую добычу блоков",
+  "emi_loot.emi_loot_config.directDrops.blockLoot.desc": "Включать ли в таблицы добычи блоков вручную добавленную «прямую добычу»",
+  "emi_loot.emi_loot_config.directDrops.gameplayLoot": "Включать прямую игровую добычу",
+  "emi_loot.emi_loot_config.directDrops.gameplayLoot.desc": "Включать ли в игровые таблицы добычи вручную добавленную «прямую добычу»",
+  "emi_loot.emi_loot_config.directDrops.archaeologyLoot": "Включать прямую археологическую добычу",
+  "emi_loot.emi_loot_config.directDrops.archaeologyLoot.desc": "Включать ли в таблицы археологической добычи вручную добавленную «прямую добычу»",
+  "emi.category.emi_loot.trial_chamber": "Добыча комнаты испытаний",
+  "emi_loot.percentage": "%s%%",
+  "emi_loot.color_name": "%1$s %2$s",
+  "emi_loot.condition.any_of_3": "%s, ",
+  "emi_loot.condition.all_of_3": "%s, ",
+  "emi_loot.condition.raining_true": "Выпадает во время дождя",
+  "emi_loot.condition.raining_false": "Выпадает, когда нет дождя",
+  "emi_loot.predicate.and_3": "%1$s, %2$s",
+  "emi_loot.predicate.or_3": "%1$s, %2$s",
+  "emi_loot.state_predicate.state_exact": "%1$s: %2$s"
+}

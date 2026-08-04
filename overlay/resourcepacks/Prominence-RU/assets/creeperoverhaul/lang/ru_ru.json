@@ -25,5 +25,6 @@
   "subtitles.creeperoverhaul.entity.ocean.creeper.death": "Крипер умирает",
   "subtitles.creeperoverhaul.entity.ocean.creeper.hurt": "Крипер ранен",
   "subtitles.creeperoverhaul.entity.ocean.creeper.inflate": "Океанский крипер надувается",
-  "subtitles.creeperoverhaul.entity.ocean.creeper.deflate": "Океанский крипер сдувается"
+  "subtitles.creeperoverhaul.entity.ocean.creeper.deflate": "Океанский крипер сдувается",
+  "itemGroup.creeperoverhaul.item_group": "Creeper Overhaul"
 }

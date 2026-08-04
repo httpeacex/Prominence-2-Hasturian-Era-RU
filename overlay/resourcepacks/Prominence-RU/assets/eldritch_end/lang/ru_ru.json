@@ -36,5 +36,6 @@
   "entity.eldritch_end.eye": "Древнее Око",
   "entity.eldritch_end.ominous_eye": "Зловещий Глаз",
   "entity.eldritch_end.dendler": "Дендлер",
-  "entity.eldritch_end.the_faceless": "Безликий"
+  "entity.eldritch_end.the_faceless": "Безликий",
+  "itemGroup.eldritch_end": "Eldritch End"
 }

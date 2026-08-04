@@ -133,5 +133,17 @@
   "jade.wireless_connector.color": "Цвет: %s",
   "jade.crystal_chamber.progress": "Прогресс: %s",
   "config.jade.plugin_extendedae.jade_wireless": "Цвет беспроводного соединителя",
-  "key.epp.viewpattern": "Посмотреть шаблон"
+  "key.epp.viewpattern": "Посмотреть шаблон",
+  "itemGroup.epp": "Extended AE2",
+  "block.extendedae.fishbig": "Фишбиг",
+  "item.extendedae.threshold_export_bus": "ME пороговая шина экспорта",
+  "gui.extendedae.threshold_export_bus": "ME пороговая шина экспорта",
+  "gui.extendedae.threshold_export_bus.greater": "Работает выше порога",
+  "gui.extendedae.threshold_export_bus.lower": "Работает ниже порога",
+  "key.epp.category": "Extended AE",
+  "config.extendedae.option.busSpeed": "Скорость ME Extend шины",
+  "config.extendedae.option.infCellCost": "Расход энергии ячейки бесконечности",
+  "config.extendedae.option.infCellTypeID": "Тип ячейки бесконечности",
+  "config.extendedae.option.wirelessConnectorMaxRange": "Дальность беспроводного коннектора",
+  "config.extendedae.option.tapeWhitelist": "Список ME упаковочной ленты"
 }

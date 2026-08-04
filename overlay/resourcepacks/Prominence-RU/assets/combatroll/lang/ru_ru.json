@@ -1,0 +1,8 @@
+{
+  "combatroll.mod_name": "Combat Roll",
+  "text.autoconfig.combatroll.title": "Combat Roll",
+  "text.autoconfig.combatroll.option.client.showHUDInCreative": "Показывать стрелку в творческом режиме",
+  "text.autoconfig.combatroll.option.client.showWhenFull": "Показывать стрелку при полном заряде",
+  "text.autoconfig.combatroll.option.client.showKeybinding": "Показывать привязку клавиш на HUD",
+  "text.autoconfig.combatroll.option.client.keybindingLabelPosition": "Положение метки привязки клавиш"
+}

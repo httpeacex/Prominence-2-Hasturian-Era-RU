@@ -1,0 +1,8 @@
+{
+  "itemGroup.frostiful.frostiful": "Frostiful",
+  "gamerule.frostiful.doPassiveFreezing.description": "Если включено, игроки со временем медленно замерзают от окружающей среды. Игроки в Плаще фростологии не подвержены этому.",
+  "gamerule.category.frostiful": "Frostiful",
+  "text.autoconfig.frostiful.option.combatConfig.frostologerIntolerableHeat": "Невыносимый жар для фростолога",
+  "text.autoconfig.frostiful.option.freezingConfig.passiveFreezingTickInterval": "Интервал тиков пассивного замерзания",
+  "text.autoconfig.frostiful.option.freezingConfig.netheriteFrostResistance": "Незеритовое сопротивление морозу"
+}

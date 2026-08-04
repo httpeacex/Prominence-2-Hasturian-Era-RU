@@ -1,0 +1,14 @@
+{
+  "gui.config.reset": "с",
+  "gui.perm.open": "Открыть разрешения",
+  "gui.perm.add": "Добавить группу",
+  "gui.content": "Содержимое",
+  "gui.config.enabled": "Включено",
+  "gui.day": "д",
+  "gui.hour": "ч",
+  "gui.minute": "м",
+  "gui.second": "с",
+  "gui.ingredient.latest": "Недавние ингредиенты:",
+  "minecraft.blocks": "Блоки",
+  "minecraft.blocks.counting": "Блоков: %s"
+}

@@ -1,0 +1,23 @@
+{
+  "colorwheel.fallback_mode": "резервный режим",
+  "colorwheel.fallback_mode.enable": "Включить резервный режим",
+  "colorwheel.alert.ask_disable": "Отключить это предупреждение",
+  "colorwheel.alert.incompatible_pack": "Пакет шейдеров %1$s несовместим",
+  "colorwheel.alert.incompatible_pack.patch_available": "Вместо этого выберите %1$s в меню пакетов шейдеров",
+  "colorwheel.alert.incompatible_pack.ask_fallback_mode": "Вы можете запросить поддержку Colorwheel у разработчика пакета шейдеров. Также можно включить %1$s для полностью автоматической поддержки. Графические проблемы БУДУТ, а расширенная поддержка предоставлена НЕ БУДЕТ.",
+  "colorwheel.alert.incompatible_pack.disable": "Отключить предупреждение о несовместимом пакете шейдеров",
+  "colorwheel.alert.broken_pack": "Текущий пакет шейдеров содержит повреждённые шейдеры, ожидайте графических проблем",
+  "colorwheel.alert.broken_pack.disable": "Отключить предупреждение о повреждённом пакете шейдеров",
+  "command.colorwheel.alert_incompatible_pack.get.on": "Предупреждение о несовместимом пакете шейдеров включено",
+  "command.colorwheel.alert_incompatible_pack.get.off": "Предупреждение о несовместимом пакете шейдеров отключено",
+  "command.colorwheel.alert_incompatible_pack.set.on": "Предупреждение о несовместимом пакете шейдеров теперь включено",
+  "command.colorwheel.alert_incompatible_pack.set.off": "Предупреждение о несовместимом пакете шейдеров теперь отключено",
+  "command.colorwheel.alert_broken_pack.get.on": "Предупреждение о повреждённом пакете шейдеров включено",
+  "command.colorwheel.alert_broken_pack.get.off": "Предупреждение о повреждённом пакете шейдеров отключено",
+  "command.colorwheel.alert_broken_pack.set.on": "Предупреждение о повреждённом пакете шейдеров теперь включено",
+  "command.colorwheel.alert_broken_pack.set.off": "Предупреждение о повреждённом пакете шейдеров теперь отключено",
+  "command.colorwheel.fallback_mode.get.on": "Резервный режим включён",
+  "command.colorwheel.fallback_mode.get.off": "Резервный режим отключён",
+  "command.colorwheel.fallback_mode.set.on": "Резервный режим теперь включён. Здесь водятся драконы!",
+  "command.colorwheel.fallback_mode.set.off": "Резервный режим теперь отключён"
+}

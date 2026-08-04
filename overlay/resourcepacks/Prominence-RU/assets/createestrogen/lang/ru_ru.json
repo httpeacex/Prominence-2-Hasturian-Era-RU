@@ -1,0 +1,18 @@
+{
+  "block.createestrogen.centrifuge": "Центрифуга",
+  "block.createestrogen.moth_seat": "Сиденье из розового клёна",
+  "create.tooltip.speedRequirement.max": "Макс.",
+  "createestrogen.ponder.basic.header": "Как использовать центрифугу",
+  "createestrogen.ponder.basic.text_1": "У центрифуги нет инвентаря, вам нужно разместить вокруг неё ёмкости для жидкости, чтобы она заработала!",
+  "createestrogen.ponder.basic.text_2": "Вы можете подавать жидкости снизу",
+  "createestrogen.ponder.basic.text_3": "И выводить жидкости сверху",
+  "createestrogen.ponder.intro.header": "Требования центрифуги",
+  "createestrogen.ponder.intro.text_1": "Центрифуге нужна максимальная скорость (256 об/мин), чтобы работать!",
+  "createestrogen.recipe.centrifuging": "Центрифугирование",
+  "emi.category.createestrogen.centrifuging": "Центрифугирование",
+  "item.createestrogen.incomplete_estrogen_patches": "Незавершённый эстрогеновый пластырь",
+  "item.createestrogen.incomplete_uwu": "Незавершённый UwU",
+  "item.createestrogen.package": "Упаковка эстрогеновых таблеток",
+  "item.createestrogen.used_filter": "Использованный фильтр",
+  "itemGroup.createestrogen.createestrogen": "Create: Estrogen"
+}

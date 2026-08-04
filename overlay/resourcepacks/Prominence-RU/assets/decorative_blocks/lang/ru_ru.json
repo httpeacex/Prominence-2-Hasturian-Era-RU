@@ -21,5 +21,6 @@
   "wiki.decorative_blocks.copy1": "§3Использование по умолчанию - вставить, крадучись - скопировать",
   "wiki.decorative_blocks.copy2": "§3Скопированно: %s",
   "wiki.decorative_blocks.shift": "Нажмите §lSHIFT§r для большей информации",
-  "key.decorative_blocks.switch_item_state": "Переключить состояние предмета"
+  "key.decorative_blocks.switch_item_state": "Переключить состояние предмета",
+  "tab.decorative_blocks": "Декоративные блоки"
 }

@@ -59,5 +59,6 @@
   "item.farmersknives.steeleaf_knife": "Нож из Стального Листа",
   "item.farmersknives.knightmetal_knife": "Нож из Рыцарского Металла",
   "item.farmersknives.pendorite_knife": "Пендоритовый Нож",
-  "item.farmersknives.cryomarble_knife": "Криомраморный Нож"
+  "item.farmersknives.cryomarble_knife": "Криомраморный Нож",
+  "itemGroup.farmersknives.group": "Farmers Knives"
 }

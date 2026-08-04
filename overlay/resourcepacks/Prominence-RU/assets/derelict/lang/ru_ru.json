@@ -47,5 +47,18 @@
   "tag.block.derelict.cover_boards": "Защитные доски",
   "tag.block.derelict.metal_sheets": "Металлические листы",
   "tag.entity_type.derelict.spawns_spiderlings_on_death": "Призывает паучков при смерти",
-  "category.derelict.aging": "Старение"
+  "category.derelict.aging": "Старение",
+  "itemGroup.derelict.derelict": [
+    {
+      "text": "Derelict",
+      "color": "#F2A6FF"
+    }
+  ],
+  "itemGroup.derelict.derelict.tab.general": [
+    {
+      "text": "Основные предметы и блоки",
+      "color": "#F2A6FF"
+    }
+  ],
+  "block.derelict.fancy_cobweb.disabled_tooltip": ""
 }

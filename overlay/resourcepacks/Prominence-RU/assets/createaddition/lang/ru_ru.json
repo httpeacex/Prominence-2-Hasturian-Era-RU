@@ -1,0 +1,6 @@
+{
+  "attack.death.createaddition.barbed_wire": "%1$s попытался пересечь колючую проволоку",
+  "attack.death.createaddition.barbed_wire.player": "%1$s попытался пересечь колючую проволоку в схватке с %2$s",
+  "attack.death.createaddition.tesla_coil": "%1$s получил смертельный удар током",
+  "attack.death.createaddition.tesla_coil.player": "%1$s получил смертельный удар током в схватке с %2$s"
+}

@@ -1,0 +1,7 @@
+{
+  "text.autoconfig.fallingleaves.option.cherrySpawnRate": "Частота появления лепестков сакуры",
+  "text.autoconfig.fallingleaves.option.cherrySpawnRate.@Tooltip": "Меняет ванильную частоту появления лепестков сакуры с шагом 10%, то есть\n5 = 50% (половина частоты)\n10 = 100% (исходная частота)\n20 = 200% (двойная частота)",
+  "text.autoconfig.fallingleaves.option.snowflakeSpawnRate": "Частота появления снежинок",
+  "text.autoconfig.fallingleaves.option.snowflakeSpawnRate.@Tooltip": "Сколько снежинок со временем падает с заснеженных деревьев",
+  "config.fallingleaves.spawn_breaking_leaves": "Ронять немного листьев, когда этот блок сломан или разрушается?"
+}

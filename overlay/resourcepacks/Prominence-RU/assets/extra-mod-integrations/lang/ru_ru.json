@@ -1,0 +1,6 @@
+{
+  "gui.extra-mod-integrations.metric.format.0": "%.2f",
+  "gui.extra-mod-integrations.metric.format.1": "%.1f",
+  "gui.extra-mod-integrations.metric.format.2": "%.0f",
+  "tag.item.c.magnesium_dusts": "Магниевая пыль"
+}
