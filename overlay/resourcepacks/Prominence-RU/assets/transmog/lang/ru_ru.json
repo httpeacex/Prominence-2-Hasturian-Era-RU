@@ -21,5 +21,6 @@
   "transmog.config_title": "Transmog - Настройки",
   "transmog.transmog_container": "Трансмогрификация",
   "transmog.transmog_description": "Трансмогрифицирован в:",
-  "transmog.transmog_hidden": "Скрытый предмет"
+  "transmog.transmog_hidden": "Скрытый предмет",
+  "transmog.creative_tab": "Transmog"
 }

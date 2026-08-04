@@ -24,5 +24,8 @@
   "config.waila.plugin_treechop.show_num_chops_remaining": "Количество ударов",
   "config.waila.plugin_treechop.show_tree_block_counts": "Количество блоков",
   "config.jade.plugin_treechop.show_num_chops_remaining": "Количество ударов",
-  "config.jade.plugin_treechop.show_tree_block_counts": "Количество блоков"
+  "config.jade.plugin_treechop.show_tree_block_counts": "Количество блоков",
+  "config.waila.plugin_treechop": "HT's TreeChop",
+  "config.waila.plugin_treechop.plugin": "HT's TreeChop",
+  "config.jade.plugin_treechop.plugin": "HT's TreeChop"
 }

@@ -118,5 +118,14 @@
   "death.attack.zenith_attributes:fire_damage.player": "%1$s сгорел заживо, сражаясь с %2$s",
   "death.attack.zenith_attributes:cold_damage": "%1$s замерз до смерти",
   "death.attack.zenith_attributes:cold_damage.item": "%1$s замерз до смерти от %2$s, использовавшего %3$s",
-  "death.attack.zenith_attributes:cold_damage.player": "%1$s замерз до смерти, сражаясь с %2$s"
+  "death.attack.zenith_attributes:cold_damage.player": "%1$s замерз до смерти, сражаясь с %2$s",
+  "zenith_attributes.adv.base": "[Сущность: %s | Предмет: %s]",
+  "zenith_attributes.adv.sharpness_bonus": "[Острота: +%s]",
+  "zenith_attributes.value.percent": "%s%%",
+  "zenith_attributes.modifier.plus": "+%s %s",
+  "zenith_attributes.modifier.take": "-%s %s",
+  "zenith_attributes.modifier.bool": "%s %s",
+  "zenith_attributes.gui.formula.base": "База",
+  "zenith_attributes.gui.formula.value": "Значение",
+  "zenith_attributes.gui.no_modifiers": "Нет модификаторов"
 }

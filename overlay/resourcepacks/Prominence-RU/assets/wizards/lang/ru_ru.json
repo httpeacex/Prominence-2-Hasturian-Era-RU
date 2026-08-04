@@ -28,5 +28,6 @@
   "advancements.rpg_series.spell_novice_fire.title": "Игра с огнем",
   "advancements.rpg_series.spell_novice_fire.description": "Получите свое первое заклинание мага огня",
   "advancements.rpg_series.spell_novice_frost.title": "Сохраняйте хладнокровие",
-  "advancements.rpg_series.spell_novice_frost.description": "Получите свое первое заклинание мага льда"
+  "advancements.rpg_series.spell_novice_frost.description": "Получите свое первое заклинание мага льда",
+  "itemGroup.wizards.general": "Wizards"
 }

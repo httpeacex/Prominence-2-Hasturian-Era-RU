@@ -29,5 +29,6 @@
   "config.winterly.option.generate_frozen_flowers": "Генерировать замёрзшие цветы",
   "config.winterly.option.mob_decorations.enabled": "Вкл. появление существ с украшениями",
   "config.winterly.option.mob_decorations.only_in_winter": "Существа с украшениями появляются только в холодных биомах",
-  "config.winterly.option.mob_decorations.chance": "Вероятность появления существ с украшениями"
+  "config.winterly.option.mob_decorations.chance": "Вероятность появления существ с украшениями",
+  "itemGroup.winterly.items": "Winterly"
 }

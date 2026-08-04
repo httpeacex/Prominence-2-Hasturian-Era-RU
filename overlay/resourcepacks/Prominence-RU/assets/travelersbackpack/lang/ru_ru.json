@@ -1,0 +1,18 @@
+{
+  "screen.travelersbackpack.open_in_hand": "Возьмите в основную руку, чтобы надеть рюкзак",
+  "screen.travelersbackpack.sort_shift": "§7Удерживайте <Shift>: сменить способ сортировки",
+  "screen.travelersbackpack.sort_category": "§7Сортировка по: §9категории",
+  "screen.travelersbackpack.sort_name": "§7Сортировка по: §9названию предмета",
+  "screen.travelersbackpack.sort_count": "§7Сортировка по: §9количеству",
+  "screen.travelersbackpack.add_to_tools": "Добавить предмет",
+  "screen.travelersbackpack.add_to_backpack": "Правый клик для добавления",
+  "screen.travelersbackpack.inventory": "Инвентарь",
+  "screen.travelersbackpack.upgrades": "Улучшения",
+  "screen.travelersbackpack.tools": "Инструменты",
+  "screen.travelersbackpack.void_upgrade_trash_bin": "Войти в режим выбора\n§cВыберите слоты для удаления\n§cВыберите баки для слива\n§7Левый клик — выбрать\n§7Правый клик — снять выбор",
+  "screen.travelersbackpack.void_upgrade_trash_bin_drop": "Бросьте мусорную корзину для удаления или нажмите ESC для отмены",
+  "text.autoconfig.travelersbackpack.option.backpackSettings.allowToolSwapping": "Разрешить смену инструментов",
+  "text.autoconfig.travelersbackpack.option.client.toolsOverlay": "Наложение инструментов",
+  "text.autoconfig.travelersbackpack.option.client.toolsOverlay.offsetX": "Смещение X",
+  "text.autoconfig.travelersbackpack.option.client.toolsOverlay.offsetY": "Смещение Y"
+}

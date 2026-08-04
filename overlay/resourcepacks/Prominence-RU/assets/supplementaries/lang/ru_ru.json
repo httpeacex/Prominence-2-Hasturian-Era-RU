@@ -1,0 +1,14 @@
+{
+  "gui.supplementaries.safe.name": "%2$s игрока %1$s",
+  "item.supplementaries.way_sign": "Путевой указатель (%s)",
+  "item.supplementaries.cannon_boat": "Лодка с пушкой (%s)",
+  "item.supplementaries.cannon_boat_bamboo": "Бамбуковый плот с пушкой",
+  "itemGroup.supplementaries": "Supplementaries",
+  "message.supplementaries.altimeter": "Y: %d",
+  "message.supplementaries.compass": "X: %d, Z: %d",
+  "message.supplementaries.quiver.tooltip": "%s [%s]",
+  "painting.supplementaries.bombs.author": "Plantkillable",
+  "subtitles.supplementaries.aeugh": "Иглобрюх æükает",
+  "supplementaries.gui.controls": "Supplementaries",
+  "commands.supplementaries.registry.element": "%s : %s"
+}

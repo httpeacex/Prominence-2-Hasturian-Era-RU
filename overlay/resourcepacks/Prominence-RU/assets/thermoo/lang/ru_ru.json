@@ -15,5 +15,6 @@
   "commands.thermoo.temperature.set.success.single": "Установлена температура для %s: %d",
   "commands.thermoo.temperature.set.success.multiple": "Установлена температура для %s сущности(ей): %d",
   "commands.thermoo.environment.printcontroller.success": "Контроллер записан в консоль",
-  "commands.thermoo.environment.checktemperature.success": "Пассивное изменение температуры на координатах: %s, %s, %s (%s): %d"
+  "commands.thermoo.environment.checktemperature.success": "Пассивное изменение температуры на координатах: %s, %s, %s (%s): %d",
+  "commands.thermoo.environment.checktemperature.unit.success": "Температура в точке %s, %s, %s (%s) составляет %s°%s"
 }

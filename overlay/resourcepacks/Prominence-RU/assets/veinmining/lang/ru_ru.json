@@ -1,0 +1,16 @@
+{
+  "tutorial.veinmining.enchantment.standing": "Присядьте, чтобы прекратить жильную добычу.",
+  "tutorial.veinmining.enchantment.crouching": "Присядьте, чтобы вести жильную добычу.",
+  "tutorial.veinmining.enchantment.key": "Удерживайте %s для жильной добычи.",
+  "tutorial.veinmining.enchantment.no_key": "Клавиша жильной добычи не назначена, задайте привязку клавиши, чтобы включить управление.",
+  "tutorial.veinmining.key.no_configuration": "Ваша конфигурация жильной добычи не использует привязки клавиш.",
+  "tutorial.veinmining.key.no_enchantment": "Вам нужно зачарование §3Жильная добыча §fна инструменте, чтобы вести жильную добычу.",
+  "gui.veinmining.config.blocks.name": "Блоки для жильной добычи",
+  "gui.veinmining.config.blocks.description": "Определяет блоки, доступные для жильной добычи, на основе заготовки или настроенного списка.",
+  "gui.veinmining.config.enableEnchantmentTooltips.name": "Подсказки зачарований",
+  "gui.veinmining.config.enableEnchantmentTooltips.description": "Если включено, в подсказке зачарованных предметов появятся инструкции по жильной добыче.",
+  "gui.veinmining.config.enableEnchantmentWarnings.name": "Предупреждения о зачаровании",
+  "gui.veinmining.config.enableEnchantmentWarnings.description": "Если включено, пользователи будут получать предупреждения о неправильном использовании зачарования.",
+  "gui.veinmining.config.enableEnchantmentNotifications.name": "Уведомления о зачаровании",
+  "gui.veinmining.config.enableEnchantmentNotifications.description": "Если включено, при переключении на зачарованные предметы над панелью быстрого доступа появятся инструкции по жильной добыче."
+}

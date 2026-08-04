@@ -1,0 +1,16 @@
+{
+  "tcdcommons.translators.title": "Переводчики",
+  "tcdcommons.translators.tutorial": "Раздел переводчиков ниже в формате CSV. Просто поставьте запятую (,) и впишите своё уникальное имя пользователя GitHub. Пример: 'TheCSDev, SomeOtherUser, AndSoOn'.",
+  "tcdcommons.github.sponsors": "Спонсоры GitHub",
+  "tcdcommons.github.sponsors.no_sponsors": "Этот проект сейчас никто не спонсирует.",
+  "tcdcommons.special_thanks": "Особая благодарность",
+  "tcdcommons.featured": "В центре внимания",
+  "tcdcommons.featured.no_one": "В этом списке сейчас никого нет.",
+  "tcdcommons.fetch_fail": "Не удалось получить сведения.",
+  "tcdcommons.api.client.gui.panel.tpanelelement.mouse_scroll_tip": "Используйте колесо мыши или зажатую левую кнопку с перетаскиванием, чтобы прокрутить этот раздел...",
+  "commands.badges.edit.output": "Изменена статистика значка '%s' для %s игрока(ов).",
+  "commands.badges.clear.output": "Сброшена вся статистика значков для %s игрока(ов).",
+  "commands.badges.chat_grant": "%s заработал значок игрока %s.",
+  "commands.badges.query.output": "Значение статистики значка '%s' у игрока %s равно %s.",
+  "tcdcommons.key.refresh_current_screen": "Обновить текущий экран"
+}

@@ -1,0 +1,10 @@
+{
+  "zoomify.key.zoom_toggle": "Приближение (переключение)",
+  "zoomify.key.category": "Zoomify",
+  "yacl3.config.zoomify.title": "Zoomify",
+  "yacl3.config.zoomify.category.behaviour.group.basic": "Основные",
+  "yacl3.config.zoomify.category.misc.root.option.unbindConflicting.button": "Отвязать",
+  "zoomify.gui.preset.optifine": "OptiFine",
+  "zoomify.gui.preset.ok_zoomer": "OK Zoomer",
+  "zoomify.migrate.okz": "OK Zoomer"
+}

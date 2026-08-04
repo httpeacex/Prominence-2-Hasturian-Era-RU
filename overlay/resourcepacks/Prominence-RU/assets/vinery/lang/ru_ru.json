@@ -1,0 +1,8 @@
+{
+  "creativetab.vinery.tab": "[Let's Do] Vinery",
+  "effect.vinery.health_effect": "Эффект здоровья",
+  "effect.vinery.health_effect.description": "Увеличивает максимальное здоровье на время действия этого эффекта.",
+  "text.autoconfig.vinery.title": "Vinery",
+  "tooltip.vinery.fermentation_barrel.red_crimson_juice_with_percentage": "Багровый красный виноградный сок: %s%%",
+  "tooltip.vinery.fermentation_barrel.white_warped_juice_with_percentage": "Искажённый белый виноградный сок: %s%%"
+}
