@@ -32,5 +32,6 @@
   "key.inventorysorter.sortbtn.clickhere": "Нажмите сюда",
   "key.inventorysorter.sortbtn.dnsadd": " чтобы автоматически добавить к списку Несортируемых Инвентарей",
   "key.inventorysorter.sortbtn.dndadd": " чтобы автоматически добавить к списку Скрытых Кнопок Сортировки",
-  "key.inventorysorter.sortbtn.error": "Экран не добавляется в черный список, либо уже находится в черном списке"
+  "key.inventorysorter.sortbtn.error": "Экран не добавляется в черный список, либо уже находится в черном списке",
+  "key.categories.inventorysorter": "Сортировка инвентаря"
 }

@@ -1,0 +1,15 @@
+{
+  "item.onlyexcavators.wooden_excavator": "Деревянный экскаватор",
+  "item.onlyexcavators.stone_excavator": "Каменный экскаватор",
+  "item.onlyexcavators.iron_excavator": "Железный экскаватор",
+  "item.onlyexcavators.gold_excavator": "Золотой экскаватор",
+  "item.onlyexcavators.lapis_excavator": "Лазуритовый экскаватор",
+  "item.onlyexcavators.redstone_excavator": "Красный экскаватор",
+  "item.onlyexcavators.diamond_excavator": "Алмазный экскаватор",
+  "item.onlyexcavators.emerald_excavator": "Изумрудный экскаватор",
+  "item.onlyexcavators.obsidian_excavator": "Обсидиановый экскаватор",
+  "item.onlyexcavators.netherite_excavator": "Незеритовый экскаватор",
+  "key.category.onlyexcavators.showoutline": "OnlyExcavators",
+  "key.onlyexcavators.showoutline": "Вкл./выкл. контур",
+  "itemGroup.onlyexcavators.onlyexcavators": "Only Excavators"
+}

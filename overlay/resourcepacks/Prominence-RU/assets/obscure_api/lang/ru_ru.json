@@ -10,5 +10,12 @@
   "enchantment.obscure_api.fast_spin.desc": "Увеличивает скорость полёта снаряда.",
   "enchantment.obscure_api.fast_spin.description": "Увеличивает скорость полёта снаряда.",
   "enchantment.obscure_api.mirror.desc": "Дублирует снаряд, но каждый дубликат наносит лишь 50% урона.",
-  "enchantment.obscure_api.mirror.description": "Дублирует снаряд, но каждый дубликат наносит лишь 50% урона."
+  "enchantment.obscure_api.mirror.description": "Дублирует снаряд, но каждый дубликат наносит лишь 50% урона.",
+  "obscure_api.ability.cost.exp": "§f(# опыта§f)",
+  "obscure_api.ability.cost.health": "§f(# HP§f)",
+  "obscure_api.ability.cost.level": "§f(# ур.§f)",
+  "obscure_api.ability.cost.durability": "§f(# §f)",
+  "obscure_api.ability.cost.none": "",
+  "icon.energy": "§f§b",
+  "icon.exp": "§f§a"
 }

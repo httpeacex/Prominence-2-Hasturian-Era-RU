@@ -1,0 +1,10 @@
+{
+  "lambdynlights": "LambDynamicLights",
+  "lambdynlights.key.toggle_fps_dynamic_lighting": "Переключить освещение от первого лица",
+  "lambdynlights.key.toggle_fps_dynamic_lighting.info": "Динамическое освещение от первого лица: %s",
+  "lambdynlights.option.light_sources.glowing_effect": "Эффект свечения",
+  "lambdynlights.option.light_sources.glowing_effect.tooltip": "Включает динамическое освещение от сущностей с эффектом свечения.",
+  "lambdynlights.option.light_sources.sonic_boom": "Звуковой удар Хранителя",
+  "lambdynlights.option.light_sources.sonic_boom.tooltip": "Включает динамическое освещение от частиц звукового удара Хранителя.",
+  "modmenu.bluesky": "Bluesky"
+}

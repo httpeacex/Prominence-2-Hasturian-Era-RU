@@ -1,5 +1,6 @@
 {
   "item.mcdw.crossbow_cog_crossbow": "Механический арбалет",
   "tooltip_info_item.mcdw.nautical_crossbow_1": "Зачем гарпунить одного врага когда вы",
-  "tooltip_info_item.mcdw.nautical_crossbow_2": "может гарпунить несколько!"
+  "tooltip_info_item.mcdw.nautical_crossbow_2": "может гарпунить несколько!",
+  "tooltip_info_item.mcdw.gap": " "
 }

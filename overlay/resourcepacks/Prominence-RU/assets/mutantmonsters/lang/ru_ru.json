@@ -3,5 +3,7 @@
   "item.minecraft.potion.effect.chemical_x": "Зелье с эффектом \"Химикат X\"",
   "item.minecraft.splash_potion.effect.chemical_x": "Разрывное зелье с эффектом \"Химикат X\"",
   "item.minecraft.lingering_potion.effect.chemical_x": "Длительное зелье с эффектом \"Химикат X\"",
-  "effect.mutantmonsters.chemical_x": "Химикат X"
+  "effect.mutantmonsters.chemical_x": "Химикат X",
+  "itemGroup.mutantmonsters.main": "Mutant Monsters",
+  "itemGroup.mutantmonsters": "Mutant Monsters"
 }

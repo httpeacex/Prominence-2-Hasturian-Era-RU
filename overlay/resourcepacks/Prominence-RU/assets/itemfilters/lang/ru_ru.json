@@ -1,0 +1,12 @@
+{
+  "itemGroup.itemfilters.main": "Фильтры предметов",
+  "itemGroup.itemfilters.itemfilters": "Фильтры предметов",
+  "itemfilters.variants": "Варианты [%d]",
+  "itemfilters.help_text.variants": "Tab, колесо мыши, стрелки вверх/вниз: изменить выделение\nEnter: выбрать выделенное",
+  "itemfilters.help_text.filter": "Фильтр (правый клик для очистки)",
+  "itemfilters.help_text.nbt": "Строка NBT\n▶ напр. { text:\"hello\", value: 1, active: true }",
+  "itemfilters.help_text.weak_nbt": "Слабая строка NBT\n▶ напр. { text:\"hello\", value: 1, active: true }\n▶ Проверяются только указанные поля NBT (любые другие поля предмета игнорируются)",
+  "itemfilters.help_text.regex": "Регулярное выражение\n Сопоставляется с идентификатором предмета\n▶ напр. \"^minecraft:\" совпадает со всеми ванильными предметами",
+  "itemfilters.help_text.max_count": "Максимальный размер стопки\n▶ Также можно использовать операторы сравнения, напр. \"<64\" или \">=16\"",
+  "itemfilters.help_text.damage": "Урон предмета\n▶ Также можно использовать операторы сравнения, напр. \"<10\" или \">=5\"\n и, при желании, проценты, напр. \">50%\""
+}

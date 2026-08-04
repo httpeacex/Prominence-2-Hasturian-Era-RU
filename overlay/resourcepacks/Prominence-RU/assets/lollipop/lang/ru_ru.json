@@ -1,0 +1,10 @@
+{
+  "info.lollipop.fe": "%s FE",
+  "info.lollipop.fe.per.mb": "%s FE/%s мб",
+  "info.lollipop.fe.pet.tick": "%s FE/т",
+  "info.lollipop.fe.stored": "%s/%s FE",
+  "info.lollipop.mb": "%s мБ",
+  "info.lollipop.mb.pet.tick": "%s мб/т",
+  "info.lollipop.mb.stored": "%s/%s мБ",
+  "info.lollipop.temperature.c": "%s C"
+}

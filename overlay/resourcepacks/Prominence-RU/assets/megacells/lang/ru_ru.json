@@ -1,0 +1,15 @@
+{
+  "gui.megacells.ModName": "MEGA Cells",
+  "item.megacells.mana_storage_cell_16m": "Ячейка хранения маны 16M MEGA",
+  "item.megacells.mana_storage_cell_1m": "Ячейка хранения маны 1M MEGA",
+  "item.megacells.mana_storage_cell_256m": "Ячейка хранения маны 256M MEGA",
+  "item.megacells.mana_storage_cell_4m": "Ячейка хранения маны 4M MEGA",
+  "item.megacells.mana_storage_cell_64m": "Ячейка хранения маны 64M MEGA",
+  "item.megacells.mega_mana_cell_housing": "Корпус ячейки маны MEGA",
+  "item.megacells.portable_mana_cell_16m": "Портативная ячейка маны 16M",
+  "item.megacells.portable_mana_cell_1m": "Портативная ячейка маны 1M",
+  "item.megacells.portable_mana_cell_256m": "Портативная ячейка маны 256M",
+  "item.megacells.portable_mana_cell_4m": "Портативная ячейка маны 4M",
+  "item.megacells.portable_mana_cell_64m": "Портативная ячейка маны 64M",
+  "text.autoconfig.megacells.title": "MEGA Cells"
+}

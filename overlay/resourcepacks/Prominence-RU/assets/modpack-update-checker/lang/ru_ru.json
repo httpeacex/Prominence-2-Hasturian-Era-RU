@@ -46,5 +46,10 @@
   "fancymenu.modpack-update-checker.placeholder.latest-modpack-version.description": "Последняя доступная версия модпака.",
   "modpack-update-checker.markdown.renderer.builtin.basic.title": "База",
   "modpack-update-checker.markdown.renderer.builtin.basic.description": "Базовый рендерер, который поддерживает URL ссылки и ссылки разметки",
-  "modpack-update-checker.markdown.renderer.builtin.mpuc_lavendermd.description": "Рендерер разметки Lavender, который поддерживает изображения, заголовки и т.д."
+  "modpack-update-checker.markdown.renderer.builtin.mpuc_lavendermd.description": "Рендерер разметки Lavender, который поддерживает изображения, заголовки и т.д.",
+  "title.modpack-update-checker": "Проверка обновлений сборки",
+  "toast.modpack-update-checker.modpack-update-available.description": "%s -> %s",
+  "screen.modpack-update-checker.changelog.date-time-format": "ISO_LOCAL_DATE",
+  "fancymenu.modpack-update-checker.helper.ui.dynamicvariabletextfield.categories.modpack-update-checker": "Проверка обновлений сборки",
+  "modpack-update-checker.markdown.renderer.builtin.mpuc_lavendermd.title": "Lavender"
 }

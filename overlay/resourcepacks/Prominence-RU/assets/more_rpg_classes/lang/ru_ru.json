@@ -11,5 +11,6 @@
   "enchantment.more_rpg_classes.earth_mastery": "Повелитель земли",
   "enchantment.more_rpg_classes.earth_mastery.desc": "Увеличивает урон от заклинаний земли",
   "enchantment.more_rpg_classes.water_mastery": "Повелитель воды",
-  "enchantment.more_rpg_classes.water_mastery.desc": "Увеличивает урон от заклинаний воды"
+  "enchantment.more_rpg_classes.water_mastery.desc": "Увеличивает урон от заклинаний воды",
+  "itemGroup.more_rpg_classes.general": "MRPGClasses"
 }

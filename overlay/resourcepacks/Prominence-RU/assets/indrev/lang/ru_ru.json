@@ -1,0 +1,23 @@
+{
+  "indrev.indrev_group": "Industrial Revolution",
+  "block.indrev.data_card_writer": "Кодировщик карт данных",
+  "block.indrev.data_card_writer_mk4": "Кодировщик карт данных",
+  "item.indrev.ore_data_card": "Карта данных руды",
+  "item.indrev.empty_ore_data_card": "Пустая карта данных руды",
+  "item.indrev.ore_data_card.modifier.speed": "скорость",
+  "item.indrev.ore_data_card.modifier.size": "размер",
+  "item.indrev.ore_data_card.modifier.richness": "богатство",
+  "item.indrev.ore_data_card.modifier.rng": "ГСЧ",
+  "item.indrev.gamer_axe.true": "Вкл.",
+  "item.indrev.gamer_axe.false": "Выкл.",
+  "item.indrev.gamer_axe.tooltip.true": "Нажмите %s, чтобы выключить",
+  "item.indrev.gamer_axe.tooltip.false": "Нажмите %s, чтобы включить",
+  "item.indrev.modular_item.tooltip": "Нажмите %s для переключения модулей",
+  "item.indrev.jetpack.tooltip": "Нажмите %s для переключения реактивного ранца",
+  "item.indrev.module_controlled_destruction": "Модуль управляемого разрушения",
+  "item.indrev.module_controlled_destruction.tooltip": "Позволяет задать шаблоны добычи для вашего бура.",
+  "item.indrev.module_matter_projector": "Модуль проектора материи",
+  "item.indrev.module_matter_projector.tooltip": "Позволяет задать шаблоны размещения блоков для вашего бура.",
+  "category.indrev": "Industrial Revolution",
+  "key.indrev.gamer_axe_toggle": "Переключить геймерский топор"
+}

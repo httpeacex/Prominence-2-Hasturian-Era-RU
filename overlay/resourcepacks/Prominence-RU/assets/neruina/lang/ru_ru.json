@@ -1,0 +1,5 @@
+{
+  "commands.neruina.report.test.fail": "Автоотчёт: провал",
+  "commands.neruina.report.test.pass": "Автоотчёт: успех",
+  "commands.neruina.id.item_stack.not_errored": "Удерживаемая стопка предметов %s [%s] не содержит ошибок."
+}
