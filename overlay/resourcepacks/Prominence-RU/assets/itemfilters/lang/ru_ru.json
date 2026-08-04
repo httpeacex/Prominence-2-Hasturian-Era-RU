@@ -1,6 +1,6 @@
 {
-  "itemGroup.itemfilters.main": "Фильтры предметов",
-  "itemGroup.itemfilters.itemfilters": "Фильтры предметов",
+  "itemGroup.itemfilters.main": "Item Filters",
+  "itemGroup.itemfilters.itemfilters": "Item Filters",
   "itemfilters.variants": "Варианты [%d]",
   "itemfilters.help_text.variants": "Tab, колесо мыши, стрелки вверх/вниз: изменить выделение\nEnter: выбрать выделенное",
   "itemfilters.help_text.filter": "Фильтр (правый клик для очистки)",

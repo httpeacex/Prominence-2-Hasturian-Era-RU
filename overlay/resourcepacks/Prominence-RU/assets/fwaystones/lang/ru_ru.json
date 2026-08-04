@@ -16,7 +16,7 @@
   "fwaystones.missing_discover_item.arg_color": "#AA0000",
   "fwaystones.discover_item_paid.arg_color": "#FFFF55",
   "fwaystones.no_teleport_message.cooldown.arg_color": "#FF5555",
-  "itemGroup.fwaystones.fwaystones": "Путевые камни",
+  "itemGroup.fwaystones.fwaystones": "Waystones",
   "fwaystones.integration.journeymap.category": "Fabric-Waystones",
   "text.config.fwaystones/config.option.worldgen.unbreakable_generated_waystones": "Должны ли сгенерированные путевые камни быть неразрушимыми?",
   "text.config.fwaystones/config.option.worldgen.village_waystone_weight": "Вес путевого камня в деревне (игнорируется при min/max)"
