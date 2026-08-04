@@ -1,0 +1,235 @@
+{
+  "item.things.things_almanac": "Альманах штуковин",
+  "category.things.broken_watch": "Сломанные часы",
+  "block.things.stone_glowstone_fixture": "Каменный светильник с камнесветом",
+  "block.things.quartz_glowstone_fixture": "Кварцевый светильник с камнесветом",
+  "block.things.deepslate_glowstone_fixture": "Глубинносланцевый светильник с камнесветом",
+  "block.things.gleaming_ore": "Мерцающая руда",
+  "block.things.deepslate_gleaming_ore": "Глубинносланцевая мерцающая руда",
+  "block.things.diamond_pressure_plate": "Алмазная нажимная плита",
+  "item.things.hardening_catalyst": "Катализатор упрочнения",
+  "item.things.hardening_catalyst.tooltip": "Примените в наковальне, чтобы сделать любой предмет неразрушимым",
+  "item.things.recall_potion": "Зелье возврата",
+  "item.things.container_key": "Ключ от хранилища",
+  "item.things.container_key.tooltip": "Запирает контейнеры: нажмите с приседанием, чтобы запереть или отпереть. Нужен, чтобы открыть запертый контейнер",
+  "item.things.bater_wucket": "Ведёрко с ватой",
+  "item.things.ender_pouch": "Сумка Края",
+  "item.things.ender_pouch.tooltip": [
+    {
+      "text": "Нажмите ",
+      "color": "gray"
+    },
+    {
+      "index": 0,
+      "color": "white"
+    },
+    ", чтобы открыть инвентарь сундука Края"
+  ],
+  "item.things.monocle": "Монокль",
+  "item.things.monocle.tooltip": "Даёт постоянное ночное зрение",
+  "item.things.moss_necklace": "Мшистое ожерелье",
+  "item.things.moss_necklace.tooltip": "Даёт регенерацию II при свете",
+  "item.things.placebo": "Плацебо",
+  "item.things.placebo.tooltip": "Даёт 25%% шанс не израсходовать зелье при использовании",
+  "item.things.displacement_tome": "Том перемещения",
+  "item.things.displacement_tome.tooltip": "Изящный инструмент для телепортации. Щёлкните по эндер-жемчугу правой кнопкой, чтобы зарядить",
+  "item.things.displacement_tome.tooltip.charges": [
+    {
+      "text": "Заряды: ",
+      "color": "gray"
+    },
+    {
+      "index": 0,
+      "color": "#5800FF"
+    }
+  ],
+  "item.things.displacement_page": "Страница перемещения",
+  "item.things.mining_gloves": "Шахтёрская перчатка",
+  "item.things.mining_gloves.tooltip": "Даёт постоянную поспешность II",
+  "item.things.riot_gauntlet": "Боевая рукавица",
+  "item.things.riot_gauntlet.tooltip": "Даёт постоянную силу",
+  "item.things.infernal_scepter": "Инфернальный скипетр",
+  "item.things.infernal_scepter.tooltip": "Стреляет огненными шарами, использует огненные заряды как боеприпасы",
+  "item.things.gleaming_powder": "Мерцающий порошок",
+  "item.things.gleaming_compound": "Мерцающая смесь",
+  "item.things.hades_crystal": "Кристалл Аида",
+  "item.things.hades_crystal.tooltip": "Даёт постоянную огнестойкость. Носите вместе с §fвосковой железой §7для пущего великолепия",
+  "item.things.enchanted_wax_gland": "Зачарованная восковая железа",
+  "item.things.enchanted_wax_gland.tooltip": "Позволяет держаться на воде. А заодно, похоже, ещё и очень быстро плавать",
+  "item.things.item_magnet": "Магнит для предметов",
+  "item.things.item_magnet.tooltip": [
+    {
+      "text": "⚡ ",
+      "color": "#8000ff"
+    },
+    {
+      "text": "Заряд: ",
+      "color": "gray"
+    },
+    {
+      "index": 0,
+      "color": "dark_gray"
+    }
+  ],
+  "item.things.consolation_cake.hint": "Вы можете обменять это на утешительный торт",
+  "item.things.consolation_cake": [
+    {
+      "italic": false,
+      "text": ""
+    },
+    {
+      "text": "❤",
+      "color": "#EB1D36"
+    },
+    {
+      "text": " Утешительный торт "
+    },
+    {
+      "text": "❤",
+      "color": "#EB1D36"
+    }
+  ],
+  "item.things.rabbit_foot_charm": "Талисман — кроличья лапка",
+  "item.things.rabbit_foot_charm.tooltip": "Даёт постоянную прыгучесть II",
+  "item.things.luck_of_the_irish": "Ирландская удача",
+  "item.things.luck_of_the_irish.tooltip": "Вроде как превращает ядовитый картофель в золотые яблоки",
+  "item.things.socks": "Носки",
+  "item.things.socks.tooltip": [
+    "Повышают скорость ходьбы и по желанию дают прыгучесть с автопрыжком на ступеньку. Нажмите ",
+    {
+      "index": 0,
+      "color": "white"
+    },
+    ", чтобы переключить прыгучесть"
+  ],
+  "item.things.socks.jumpy": "Прыгучие",
+  "item.things.socks.speed_0": "Обычные",
+  "item.things.socks.speed_1": "Быстрые",
+  "item.things.socks.speed_2": "Усэйн Болт",
+  "item.things.socks.speed_illegal": "Запрещённые",
+  "item.things.arm_extender": "Удлинитель рук",
+  "item.things.arm_extender.tooltip": "Увеличивает досягаемость на 2 блока",
+  "item.things.shock_absorber": "Амортизатор",
+  "item.things.shock_absorber.tooltip": "Снижает урон от падения на 20%% вплоть до 8 сердец и кинетический урон на 75%%",
+  "item.things.broken_watch": "Сломанные часы",
+  "item.things.broken_watch.tooltip": "Увеличивает длительность эффектов состояния на 50%%",
+  "item.things.agglomeration": "Агломерация",
+  "item.things.empty_agglomeration": "Пустая агломерация",
+  "item.things.empty_agglomeration.tooltip": "Скомбинируйте с двумя амулетами, у которых есть хотя бы один общий слот, чтобы объединить их",
+  "effect.things.momentum": "Инерция",
+  "enchantment.things.retribution": "Возмездие",
+  "enchantment.things.retribution.desc": "Награждает владельца силой, когда тот блокирует атаку зачарованным щитом",
+  "container.enderpouch": "Сумка Края",
+  "itemGroup.things.things": "Штуковины",
+  "trinkets.slot.feet.charm": "Талисман",
+  "category.things.things": "Штуковины",
+  "gui.things.displacement_tome.charges": [
+    {
+      "text": "Заряды: ",
+      "color": "gray"
+    },
+    {
+      "index": 0,
+      "color": "white"
+    }
+  ],
+  "gui.things.displacement_tome.edit_hint": "✎",
+  "gui.things.displacement_tome.create": "Создать",
+  "gui.things.displacement_tome.rename": "Переименовать",
+  "gui.things.displacement_tome.delete": "Удалить",
+  "gui.things.displacement_tome.no_pages": [
+    "",
+    {
+      "text": "! ",
+      "color": "yellow",
+      "bold": true
+    },
+    {
+      "text": "Нет страниц перемещения",
+      "color": "gray"
+    }
+  ],
+  "text.things.tooltip_hint": [
+    {
+      "text": "Удерживайте ",
+      "color": "gray"
+    },
+    {
+      "text": "SHIFT",
+      "color": "gold"
+    },
+    ", чтобы узнать больше"
+  ],
+  "text.things.crafting_component": "Компонент для крафта",
+  "key.things.openenderchest": "Открыть сумку Края",
+  "key.things.place_item": "Разместить предмет в мире",
+  "key.things.toggle_socks_jump_boost": "Переключить прыгучесть носков",
+  "key.mouse.5": "Мышь 5",
+  "key.mouse.4": "Мышь 4",
+  "advancement.things.root.title": "Штуковины",
+  "advancement.things.root.description": "И, вероятно, весьма полезные",
+  "advancement.things.gleaming_powder.title": "Как алмазы, только тусклее",
+  "advancement.things.gleaming_powder.description": "Получите мерцающий порошок",
+  "advancement.things.gleaming_compound.title": "Та ещё смесь",
+  "advancement.things.gleaming_compound.description": "Скрафтите мерцающую смесь",
+  "advancement.things.bater_wucket.title": "Бесконечная вода",
+  "advancement.things.bater_wucket.description": "Но оно того стоило?",
+  "advancement.things.displacement_tome.title": "Квантовая запутанность",
+  "advancement.things.displacement_tome.description": "Скрафтите том перемещения",
+  "advancement.things.enchanted_wax_gland.title": "Как утка, только быстрее",
+  "advancement.things.enchanted_wax_gland.description": "Скрафтите зачарованную восковую железу",
+  "advancement.things.ender_pouch.title": "Ещё портативнее",
+  "advancement.things.ender_pouch.description": "Скрафтите сумку Края",
+  "advancement.things.hades_crystal.title": "Отрываемся под жарочку",
+  "advancement.things.hades_crystal.description": "Скрафтите кристалл Аида",
+  "advancement.things.infernal_scepter.title": "Гаст, ужас, преисподняя",
+  "advancement.things.infernal_scepter.description": "Носите инфернальный скипетр с гордостью",
+  "advancement.things.item_magnet.title": "А вы притягательны",
+  "advancement.things.item_magnet.description": "Скрафтите магнит для предметов",
+  "advancement.things.mining_gloves.title": "И снова мы в шахте",
+  "advancement.things.mining_gloves.description": "Машем киркой из стороны в сторону",
+  "advancement.things.monocle.title": "Всё как на ладони",
+  "advancement.things.monocle.description": "Скрафтите монокль",
+  "advancement.things.moss_necklace.title": "Зарастает прямо на ранах",
+  "advancement.things.moss_necklace.description": "Довольно мерзко",
+  "advancement.things.placebo.title": "Клинические испытания",
+  "advancement.things.placebo.description": "Скрафтите плацебо",
+  "advancement.things.recall_potion.title": "Мам, я скучаю по дому",
+  "advancement.things.recall_potion.description": "Скрафтите зелье возврата",
+  "advancement.things.riot_gauntlet.title": "missingno",
+  "advancement.things.riot_gauntlet.description": "missingno",
+  "advancement.things.rabbit_foot_charm.title": "Кто же не любит прыг-прыг?",
+  "advancement.things.rabbit_foot_charm.description": "Скрафтите талисман — кроличью лапку",
+  "advancement.things.shock_absorber.title": "Кошачьи рефлексы по дешёвке",
+  "advancement.things.shock_absorber.description": "Скрафтите амортизатор",
+  "advancement.things.arm_extender.title": "Дотянуться теперь легко",
+  "advancement.things.arm_extender.description": "Скрафтите удлинитель рук",
+  "advancement.things.broken_watch.title": "Дважды в сутки не врут",
+  "advancement.things.broken_watch.description": "Скрафтите сломанные часы",
+  "advancement.things.empty_agglomeration.title": "Баланс? Кому нужен этот баланс?",
+  "advancement.things.empty_agglomeration.description": "Скрафтите пустую агломерацию",
+  "advancement.things.agglomerate.title": "Вдвое больше амулетов, вдвое больше веселья",
+  "advancement.things.agglomerate.description": "Объедините два амулета ради веселья и выгоды",
+  "advancement.things.agglomerate_apple.title": "Питательно",
+  "advancement.things.agglomerate_apple.description": "Странная, но новаторская идея",
+  "advancement.things.eat_agglomerated_apple.title": "Разок",
+  "advancement.things.eat_agglomerated_apple.description": "Оно питает вас один раз. И вот оно уже сломано",
+  "text.config.things.title": "Настройки Things",
+  "text.config.things.option.generateGleamingOre": "Генерация мерцающей руды",
+  "text.config.things.option.appleTrinket": "Яблочный амулет включён",
+  "text.config.things.option.waxGlandMultiplier": "Множитель скорости восковой железы",
+  "text.config.things.option.infernalScepterDurability": "Прочность инфернального скипетра",
+  "text.config.things.option.nerfBeaconsWithMomentum": "Ослабить маяки",
+  "text.config.things.option.renderTrinkets": "Отображать амулеты",
+  "text.config.things.option.renderAppleTrinket": "Отображать яблочный амулет",
+  "text.config.things.option.renderAgglomerationTrinket": "Отображать амулет агломерации",
+  "text.config.things.option.enableAgglomeration": "Включить агломерацию",
+  "text.config.things.option.displacementTomeFuelConsumption": "Расход топлива тома перемещения",
+  "text.config.things.option.sockPerLevelSpeedAmplifier": "Усилитель скорости носков",
+  "text.config.things.option.makeLockedContainersUnbreakable": "Неразрушимые запертые контейнеры",
+  "text.config.things.option.enableAgglomerationInvScrollSelection": "Переключение прокруткой инвентаря на агломерации",
+  "text.config.things.category.effectLevels": "Эффекты состояния амулетов",
+  "text.config.things.option.effectLevels.miningGloveMomentum": "Уровень инерции шахтёрской перчатки",
+  "text.config.things.option.effectLevels.mossNecklaceRegen": "Уровень регенерации мшистого ожерелья",
+  "text.config.things.option.effectLevels.riotGauntletStrength": "Уровень силы боевой рукавицы"
+}
