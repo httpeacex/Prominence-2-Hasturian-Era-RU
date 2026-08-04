@@ -27,12 +27,8 @@
 
 <br><br>
 
-<sub>
+<sub>Часть строк — из проекта [**Synessful**](https://www.curseforge.com/minecraft/customization/prominence-ii-rpg-russian-localization), лицензия MIT</sub>
 
-Часть строк для модов без официального русского — из проекта
-[**Synessful**](https://www.curseforge.com/minecraft/customization/prominence-ii-rpg-russian-localization), лицензия MIT.<br>
-Сборка **Prominence II: Hasturian Era** создана [**ElocinDev**](https://www.curseforge.com/minecraft/modpacks/prominence-2-hasturian-era) и **nvb-uy**.
-
-</sub>
+<sub>Сборка создана [**ElocinDev**](https://www.curseforge.com/minecraft/modpacks/prominence-2-hasturian-era) и **nvb-uy**</sub>
 
 </div>
