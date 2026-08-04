@@ -1,0 +1,22 @@
+{
+  "sdrp.logo": "Логотип сборки",
+  "sdrp.mainmenu": "Главное меню",
+  "sdrp.overworld.in": "В Верхнем мире",
+  "sdrp.overworld": "Верхний мир",
+  "sdrp.the_nether.in": "В Нижнем мире",
+  "sdrp.the_nether": "Нижний мир",
+  "sdrp.the_end.in": "В Крае",
+  "sdrp.the_end": "Край",
+  "sdrp.compact_world.in": "В Компактном мире",
+  "sdrp.compact_world": "Компактный мир",
+  "sdrp.dungeon.in": "В Мире подземелий",
+  "sdrp.dungeon": "Мир подземелий",
+  "sdrp.spatial_storage.in": "В Пространственном хранилище",
+  "sdrp.spatial_storage": "Пространственное хранилище",
+  "sdrp.otherside.in": "На Той стороне",
+  "sdrp.otherside": "Та сторона",
+  "sdrp.paradise_lost.in": "В Потерянном рае",
+  "sdrp.paradise_lost": "Потерянный рай",
+  "sdrp.mining": "Измерение добычи",
+  "sdrp.mining.in": "В Измерении добычи"
+}

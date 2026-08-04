@@ -826,5 +826,12 @@
   "text.autoconfig.simplyswords_main.option.gem_effects.enableSpellStandard": "Включить самоцвет Эталон Заклинания",
   "text.autoconfig.simplyswords_main.option.gem_effects.enableWarStandard": "Включить самоцвет Эталон Войны",
   "text.autoconfig.simplyswords_main.option.gem_effects.enableDeception": "Включить самоцвет Обман",
-  "text.autoconfig.simplyswords_main.option.status_effects.echoDamage": "Базовый Урон Эха"
+  "text.autoconfig.simplyswords_main.option.status_effects.echoDamage": "Базовый Урон Эха",
+  "item.simplyswords.mythicmetals_compat.kyber.kyber_sai": "Кайбер-сай",
+  "itemGroup.simplyswords.simplyswords": "Simply Swords",
+  "item.simplyswords.tampered_remnant_description4": "как-то...",
+  "item.simplyswords.stealsworditem.tooltip10": "силой, ослепляя и раня их.",
+  "item.simplyswords.uniquesworditem.netherfused_power.renewed.description4": "перезарядки.",
+  "item.simplyswords.uniquesworditem.netherfused_power.spellforged.description3": "силу заклинаний.",
+  "text.autoconfig.simplyswords_main.title": "Simply Swords"
 }

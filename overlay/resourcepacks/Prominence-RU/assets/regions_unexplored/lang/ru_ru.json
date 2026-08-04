@@ -488,5 +488,6 @@
   "config.regions_unexplored.client.TOGGLE_MAUVE_LEAVES_PARTICLE": "Переключить частицы от жакарандовых листьев",
   "config.regions_unexplored.client.TOGGLE_RED_MAPLE_LEAVES_PARTICLE": "Переключить частицы от листьев красного клёна",
   "config.regions_unexplored.client.TOGGLE_ORANGE_MAPLE_LEAVES_PARTICLE": "Переключить частицы от листьев оранжевого клёна",
-  "config.regions_unexplored.client": "Клиент"
+  "config.regions_unexplored.client": "Клиент",
+  "block.regions_unexplored.spanish_moss_plant": "Испанский мох"
 }

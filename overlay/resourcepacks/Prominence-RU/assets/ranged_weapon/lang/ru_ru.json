@@ -1,4 +1,8 @@
 {
   "attribute.name.ranged_weapon.damage": "§f凌§r Урон в дальнем бою",
-  "item.ranged_weapon.pull_time": "Скорость заряда: %1$s"
+  "item.ranged_weapon.pull_time": "Скорость заряда: %1$s",
+  "attribute.name.ranged_weapon.haste": "Скорость натяжения",
+  "attribute.name.ranged_weapon.pull_time": "с натяжения",
+  "effect.ranged_weapon.damage": "Удар",
+  "effect.ranged_weapon.haste": "Скорострельность"
 }

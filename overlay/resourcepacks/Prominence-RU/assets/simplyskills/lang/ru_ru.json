@@ -1,0 +1,10 @@
+{
+  "key.category.simplyskills": "Simply Skills",
+  "text.autoconfig.simplyskills.title": "Simply Skills",
+  "text.autoconfig.simplyskills.option.client.DASScaleWithPointsSpent": "Масштаб DAS от потраченных очков",
+  "text.autoconfig.simplyskills.option.client.DASScaleWithPointsSpent.@Tooltip": "Если включено, DAS будет масштабироваться от потраченных очков. Если выключено, DAS будет масштабироваться от общего числа очков (и потраченных, и нет).",
+  "text.autoconfig.simplyskills.option.misc.promCorruptionMax": "Максимум порчи",
+  "text.autoconfig.simplyskills.option.misc.promCorruptionMax.@Tooltip": "Максимальный уровень порчи, от которого способности получают выгоду. Порча выше этого уровня не даёт дополнительных бонусов способностям.",
+  "text.autoconfig.simplyskills.option.misc.promCorruptionMulti": "Множитель порчи",
+  "text.autoconfig.simplyskills.option.misc.promCorruptionMulti.@Tooltip": "Уменьшение этого множителя снизит бонусы, которые способности получают от уровня порчи."
+}

@@ -1,0 +1,12 @@
+{
+  "satisfying_buttons.configuration.AnimationEnabled": "Анимация включена",
+  "satisfying_buttons.configuration.DarkenButtonOnHover": "Затемнять кнопку при наведении",
+  "satisfying_buttons.configuration.DarkenButtonOnHoverTime": "Время затемнения при наведении",
+  "satisfying_buttons.configuration.DarkenButtonColor": "Цвет затемнения",
+  "satisfying_buttons.configuration.FadeInVanillaWidgetTexture": "Проявление ванильной текстуры",
+  "satisfying_buttons.configuration.FadeInVanillaWidgetTextureOnHoverTime": "Время проявления ванильной текстуры",
+  "satisfying_buttons.configuration.SoundEnabled": "Звук включён",
+  "satisfying_buttons.configuration.ButtonUnhoverSoundEnabled": "Звук снятия наведения включён",
+  "satisfying_buttons.configuration.ButtonSoundVolume": "Громкость звука",
+  "satisfying_buttons.configuration.ButtonSoundPitch": "Высота звука"
+}

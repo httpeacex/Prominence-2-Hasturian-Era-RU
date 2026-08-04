@@ -253,5 +253,21 @@
   "tag.mob_effect.c.damage_over_time": "Эффекты с уроном с течением времени",
   "tag.enchantments.soulsweapons.exclusive_set.bullet_collision": "Эксклюзивный набор Коллизии Пуль",
   "tag.enchantments.soulsweapons.apply_fire": "Поджигающие Зачарования",
-  "tag.enchantments.soulsweapons.prevents_ammo_consume": "Зачарования, предотвращающие потребление патронов"
+  "tag.enchantments.soulsweapons.prevents_ammo_consume": "Зачарования, предотвращающие потребление патронов",
+  "item.soulsweapons.fallen_icon_disc": "Музыкальная пластинка Fallen Icon",
+  "item.soulsweapons.fallen_icon_disc.desc": "NoRestForWicked - The Fallen Icon",
+  "item.soulsweapons.draugr_boss_disc": "Музыкальная пластинка Champion's",
+  "item.soulsweapons.draugr_boss_disc.desc": "NoRestForWicked - Gladius ad Gladium",
+  "item.soulsweapons.frenzied_shade_disc": "Музыкальная пластинка Shaded",
+  "item.soulsweapons.frenzied_shade_disc.desc": "NoRestForWicked - Frenzied Shade",
+  "tooltip.soulsweapons.double_edged_description": "",
+  "tooltip.soulsweapons.freyr_sword_description_3": "меч, чтобы вернуть предмет себе. Нажмите",
+  "tooltip.soulsweapons.freyr_sword_description_4": "%s, чтобы переключаться между неподвижностью и следованием.",
+  "tooltip.soulsweapons.heavy_weapon_description_4": "- Наносит %s §fпотерю равновесия§r после удара.",
+  "tooltip.soulsweapons.transient_moonlight.4": "вертикальная волна",
+  "tooltip.soulsweapons.blood_vial_recipe_page.part_2": "",
+  "tooltip.soulsweapons.blood_vial_recipe_page.part_10": "",
+  "category.soulsweapons.main": "Marium's Soulslike Weaponry",
+  "key.soulsweapons.show_tooltip": "Показать подсказку предмета",
+  "key.soulsweapons.show_lore": "Показать лор предмета"
 }

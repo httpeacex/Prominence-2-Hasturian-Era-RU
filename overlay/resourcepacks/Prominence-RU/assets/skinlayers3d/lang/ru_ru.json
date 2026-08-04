@@ -1,0 +1,6 @@
+{
+  "text.skinlayers.irisCompatibilityMode.enable": "Режим совместимости с Iris",
+  "text.skinlayers.irisCompatibilityMode.enable.tooltip": "Альтернативный способ отрисовки слоёв, исправляет странные тени/цвета при использовании шейдеров Iris. Включайте этот параметр только при необходимости. Нарушит соединения по углам.",
+  "text.skinlayers.applySodiumWorkaround.enable": "Обходной путь для Sodium",
+  "text.skinlayers.applySodiumWorkaround.enable.tooltip": "Обходной путь для Sodium с перевёрнутыми сторонами кубов в некоторых версиях (?). Включайте это только если используете Sodium и замечаете визуальные проблемы с пропаданием сторон слоёв скина."
+}
