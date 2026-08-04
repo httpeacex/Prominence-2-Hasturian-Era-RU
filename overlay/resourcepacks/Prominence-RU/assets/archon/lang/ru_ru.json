@@ -1,0 +1,17 @@
+{
+  "item.archon.soul": "Душа",
+  "item.archon.spell_tome": "Фолиант заклинаний",
+  "item.archon.soul_tome": "Фолиант души",
+  "enchantment.archon.reaping": "Жатва",
+  "enchantment.archon.reaping.desc": "Мобы теряют свои души после смерти",
+  "summon.archon.hound_pack": "Стая гончих",
+  "summon.archon.silver_swarm": "Серебряный рой",
+  "summon.archon.archer": "Лучник",
+  "summon.archon.twin_knights": "Рыцари-близнецы",
+  "summon.archon.titan": "Титан",
+  "text.archon.current_summon": "Призыв: %s",
+  "text.archon.summon_none": "Призыв: Пусто",
+  "text.archon.undead.power": "Сила душ: %s",
+  "text.archon.undead.souls": "Души: %s",
+  "text.archon.no_summons": "У этого посоха нет призывов!"
+}

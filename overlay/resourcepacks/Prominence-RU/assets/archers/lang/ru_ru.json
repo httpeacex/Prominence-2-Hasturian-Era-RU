@@ -1,0 +1,20 @@
+{
+  "item.archers.aeternium_spear": "Этериевое копье",
+  "item.archers.ruby_spear": "Рубиновое копье",
+  "item.archers.netherite_ranger_armor_head": "Незеритовый капюшон следопыта",
+  "item.archers.netherite_ranger_armor_chest": "Незеритовый мундир следопыта",
+  "item.archers.netherite_ranger_armor_legs": "Незеритовые поножи следопыта",
+  "item.archers.netherite_ranger_armor_feet": "Незеритовые сапоги следопыта",
+  "item.archers.crystal_shortbow": "Кристалический короткий лук",
+  "item.archers.crystal_longbow": "Кристалический большой лук",
+  "item.archers.ruby_rapid_crossbow": "Рубиновый скоростной арбалет",
+  "item.archers.ruby_heavy_crossbow": "Рубиновый тяжёлый арбалет",
+  "effect.archers.hunters_mark.description": "Увеличивает урон, получаемый от всех источников, на 5%%",
+  "effect.archers.entangling_roots.description": "Уменьшает скорость передвижения",
+  "spell.archers.magic_arrow.name": "Магическая стрела",
+  "spell.archers.magic_arrow.description": "Выпускает магическую стрелу, которая пронзает всех врагов на своём пути, нанося каждому {damage} урона.",
+  "advancements.rpg_series.path_choose_archer.title": "Путь лучника",
+  "advancements.rpg_series.path_choose_archer.description": "Создайте Руководство лучника",
+  "advancements.rpg_series.spell_novice_archer.title": "Смертоносные выстрелы",
+  "advancements.rpg_series.spell_novice_archer.description": "Получите своё первое умение лучника"
+}
