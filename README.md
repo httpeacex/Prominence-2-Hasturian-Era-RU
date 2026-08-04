@@ -5,7 +5,7 @@
 # Русская локализация<br>Prominence II: Hasturian Era
 
 **Квестбук, контент сборки, древо талантов и интерфейс.**<br>
-Около 228 тысяч символов текста.
+Около 600 тысяч символов текста.
 
 <br>
 
@@ -26,7 +26,7 @@
 <a href="https://www.minecraft.net/"><img src="https://img.shields.io/badge/Minecraft-1.20.1-44883E?style=flat-square&logo=minecraft&logoColor=white&labelColor=1C2128" height="24" alt="Minecraft 1.20.1"></a>
 <a href="https://fabricmc.net/"><img src="https://img.shields.io/badge/%D0%B7%D0%B0%D0%B3%D1%80%D1%83%D0%B7%D1%87%D0%B8%D0%BA-Fabric-DBB585?style=flat-square&labelColor=1C2128" height="24" alt="Fabric"></a>
 <a href="https://www.curseforge.com/minecraft/modpacks/prominence-2-hasturian-era"><img src="https://img.shields.io/badge/%D1%81%D0%B1%D0%BE%D1%80%D0%BA%D0%B0-v3.9.27-C1440E?style=flat-square&labelColor=1C2128" height="24" alt="Сборка v3.9.27"></a>
-<a href="#что-переведено"><img src="https://img.shields.io/badge/%D1%81%D1%82%D1%80%D0%BE%D0%BA-3%20527-6E7681?style=flat-square&labelColor=1C2128" height="24" alt="3527 строк"></a>
+<a href="#что-переведено"><img src="https://img.shields.io/badge/%D1%81%D1%82%D1%80%D0%BE%D0%BA-14%20889-6E7681?style=flat-square&labelColor=1C2128" height="24" alt="14889 строк"></a>
 <a href="#под-капотом"><img src="https://img.shields.io/badge/%D0%BE%D1%88%D0%B8%D0%B1%D0%BE%D0%BA%20%D1%84%D0%BE%D1%80%D0%BC%D0%B0%D1%82%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D1%8F-0-2EA043?style=flat-square&labelColor=1C2128" height="24" alt="0 ошибок форматирования"></a>
 
 </div>
@@ -42,11 +42,16 @@
 | ✅ | **Древо талантов** Puffish Skills | 188 строк, 14 деревьев |
 | ✅ | **Подсказки загрузки** | 17 подсказок |
 | ✅ | **Главное меню** FancyMenu | 13 меток в 8 макетах |
+| ✅ | **Блоки Chipped** | 7 258 названий декоративных блоков |
+| ✅ | **Броня и оружие** | mcda, spellbladenext, death_knights, tiered — 1 231 ключ |
+| ✅ | **Блоки и мир** | stoneworks, twigs, promenade, convenientdecor и другие — 1 356 ключей |
+| ✅ | **Достижения** | 68 достижений в things, spell_engine, promenade, more_armor_trims |
+| ✅ | **Интерфейс модов** | могилы, приваты, заклинания — 1 161 ключ |
 
 > [!NOTE]
-> Языковые файлы **~276 сторонних модов** (Create, Botania, Tech Reborn) сюда не входят —
-> у многих русский уже поставляется авторами. Испанские вкладки квестбука намеренно
-> оставлены испанскими.
+> Проведён аудит всех **285 пространств имён** сборки: у 180 русский уже поставляется
+> авторами модов, оставшиеся **105 переведены здесь**. Испанские вкладки квестбука
+> намеренно оставлены испанскими.
 
 <br>
 
