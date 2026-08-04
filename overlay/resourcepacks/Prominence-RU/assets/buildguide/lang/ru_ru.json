@@ -1,5 +1,4 @@
 {
-  "_comment": "Shapes",
   "config.buildguide.asyncEnabled": "Асинхронная генерация фигур",
   "config.buildguide.asyncEnabledComment": "Включить асинхронную (многопоточную) генерацию фигур.",
   "config.buildguide.persistenceEnabled": "Сохранение фигур",

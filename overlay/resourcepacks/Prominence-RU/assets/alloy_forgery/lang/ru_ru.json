@@ -11,7 +11,7 @@
   "tag.item.c.copper_ores": "Медные руды",
   "tag.item.c.iron_ores": "Железные руды",
   "tag.item.c.gold_ores": "Золотые руды",
-  "tag.item.c.raw_copper_blocks": "Блоки рудной меди",
-  "tag.item.c.raw_iron_blocks": "Блоки рудного железа",
-  "tag.item.c.raw_gold_blocks": "Блоки рудного золота"
+  "tag.item.c.raw_copper_blocks": "Блоки необработанной меди",
+  "tag.item.c.raw_iron_blocks": "Блоки необработанного железа",
+  "tag.item.c.raw_gold_blocks": "Блоки необработанного золота"
 }
