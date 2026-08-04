@@ -47,7 +47,6 @@
 | ✅ | **Блоки и мир** | stoneworks, twigs, promenade, convenientdecor и другие — 1 356 ключей |
 | ✅ | **Достижения** | 68 достижений в things, spell_engine, promenade, more_armor_trims |
 | ✅ | **Интерфейс модов** | могилы, приваты, заклинания — 1 161 ключ |
-| 🤝 | **Импорт из проекта Synessful** | 4 165 строк в 47 модах, включая 158 достижений — см. [NOTICE](NOTICE.md) |
 
 > [!NOTE]
 > Проведён аудит всех **285 пространств имён** сборки: у 180 русский уже поставляется
@@ -254,13 +253,13 @@ python3 tools/snbt_tool.py lint data/quests_en.json data/quests_ru.json
 
 ## Благодарности
 
-**ElocinDev**, **nvb-uy** — авторы сборки · [**Synessful / d0ukesh1**](https://www.curseforge.com/minecraft/customization/prominence-ii-rpg-russian-localization) —
-4 165 импортированных строк под лицензией MIT, подробности в [NOTICE.md](NOTICE.md) · [**d0ukesh1**](https://github.com/d0ukesh1/Prominence-2-RPG-Russian-Localization),
+**ElocinDev**, **nvb-uy** — авторы сборки · [**d0ukesh1**](https://github.com/d0ukesh1/Prominence-2-RPG-Russian-Localization),
 **strelok656**, [**Trauvel**](https://github.com/Trauvel/Translation-of-Prominence-II-RPG-Hasturian-Era),
 [**Elder1711**](https://github.com/Elder1711/Russian-quest-lang-for-Prominence-II-RPG-) —
 предыдущие русификаторы · [**pazakasin**](https://github.com/pazakasin/Prominence2-HasturianEra-Japanese)
 и [**Slaaard**](https://github.com/Slaaard/Prominence-II-Hasturian-Era-ESP) — японская и
-испанская локализации как образцы структуры
+испанская локализации как образцы структуры · [**Synessful**](https://www.curseforge.com/minecraft/customization/prominence-ii-rpg-russian-localization) —
+часть строк для модов без официального русского, лицензия MIT
 
 <br>
 
