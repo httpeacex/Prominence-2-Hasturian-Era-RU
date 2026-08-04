@@ -1,3 +1,17 @@
 {
-  "text.autoconfig.betterdungeons-fabric-1_20.option.betterDungeons.general.removeVanillaDungeons.@Tooltip[0]": "Следует ли запретить появление ванильных подземелий в мире."
+  "text.autoconfig.betterdungeons-fabric-1_20.option.betterDungeons.general.removeVanillaDungeons.@Tooltip[0]": "Следует ли запретить появление ванильных подземелий в мире.",
+  "YUNG's Better Dungeons": "Улучшенные подземелья",
+  "Adventure awaits...": "Приключение ждёт...",
+  "When in Rome": "В чужой монастырь",
+  "Set foot in a Catacomb": "Ступите в катакомбы",
+  "Cobweb Entanglement": "В паутине",
+  "Discover a Spider Cave": "Найдите паучью пещеру",
+  "A Special Addition": "Особая пристройка",
+  "Find a Small Nether Dungeon": "Найдите малое подземелье Нижнего мира",
+  "Quite the Renovation": "Капитальный ремонт",
+  "Find an upgraded Monster Room": "Найдите улучшенную комнату с монстрами",
+  "A Bone to Pick": "Костяной разговор",
+  "Enter a Fortress of the Undead": "Войдите в крепость нежити",
+  "Professional Dungeoneer": "Мастер подземелий",
+  "Explore all of the Better Dungeons!": "Исследуйте все улучшенные подземелья!"
 }
