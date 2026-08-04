@@ -26,7 +26,7 @@
 <a href="https://www.minecraft.net/"><img src="https://img.shields.io/badge/Minecraft-1.20.1-44883E?style=flat-square&logo=minecraft&logoColor=white&labelColor=1C2128" height="24" alt="Minecraft 1.20.1"></a>
 <a href="https://fabricmc.net/"><img src="https://img.shields.io/badge/%D0%B7%D0%B0%D0%B3%D1%80%D1%83%D0%B7%D1%87%D0%B8%D0%BA-Fabric-DBB585?style=flat-square&labelColor=1C2128" height="24" alt="Fabric"></a>
 <a href="https://www.curseforge.com/minecraft/modpacks/prominence-2-hasturian-era"><img src="https://img.shields.io/badge/%D1%81%D0%B1%D0%BE%D1%80%D0%BA%D0%B0-v3.9.27-C1440E?style=flat-square&labelColor=1C2128" height="24" alt="Сборка v3.9.27"></a>
-<a href="#что-переведено"><img src="https://img.shields.io/badge/%D1%81%D1%82%D1%80%D0%BE%D0%BA-14%20889-6E7681?style=flat-square&labelColor=1C2128" height="24" alt="14889 строк"></a>
+<a href="#что-переведено"><img src="https://img.shields.io/badge/%D1%81%D1%82%D1%80%D0%BE%D0%BA-19%20054-6E7681?style=flat-square&labelColor=1C2128" height="24" alt="19054 строк"></a>
 <a href="#под-капотом"><img src="https://img.shields.io/badge/%D0%BE%D1%88%D0%B8%D0%B1%D0%BE%D0%BA%20%D1%84%D0%BE%D1%80%D0%BC%D0%B0%D1%82%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D1%8F-0-2EA043?style=flat-square&labelColor=1C2128" height="24" alt="0 ошибок форматирования"></a>
 
 </div>
@@ -47,6 +47,7 @@
 | ✅ | **Блоки и мир** | stoneworks, twigs, promenade, convenientdecor и другие — 1 356 ключей |
 | ✅ | **Достижения** | 68 достижений в things, spell_engine, promenade, more_armor_trims |
 | ✅ | **Интерфейс модов** | могилы, приваты, заклинания — 1 161 ключ |
+| 🤝 | **Импорт из проекта Synessful** | 4 165 строк в 47 модах, включая 158 достижений — см. [NOTICE](NOTICE.md) |
 
 > [!NOTE]
 > Проведён аудит всех **285 пространств имён** сборки: у 180 русский уже поставляется
@@ -253,7 +254,8 @@ python3 tools/snbt_tool.py lint data/quests_en.json data/quests_ru.json
 
 ## Благодарности
 
-**ElocinDev**, **nvb-uy** — авторы сборки · [**d0ukesh1**](https://github.com/d0ukesh1/Prominence-2-RPG-Russian-Localization),
+**ElocinDev**, **nvb-uy** — авторы сборки · [**Synessful / d0ukesh1**](https://www.curseforge.com/minecraft/customization/prominence-ii-rpg-russian-localization) —
+4 165 импортированных строк под лицензией MIT, подробности в [NOTICE.md](NOTICE.md) · [**d0ukesh1**](https://github.com/d0ukesh1/Prominence-2-RPG-Russian-Localization),
 **strelok656**, [**Trauvel**](https://github.com/Trauvel/Translation-of-Prominence-II-RPG-Hasturian-Era),
 [**Elder1711**](https://github.com/Elder1711/Russian-quest-lang-for-Prominence-II-RPG-) —
 предыдущие русификаторы · [**pazakasin**](https://github.com/pazakasin/Prominence2-HasturianEra-Japanese)
