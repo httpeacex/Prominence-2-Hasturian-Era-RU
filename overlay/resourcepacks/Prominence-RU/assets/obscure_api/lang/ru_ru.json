@@ -14,8 +14,8 @@
   "obscure_api.ability.cost.exp": "§f(# опыта§f)",
   "obscure_api.ability.cost.health": "§f(# HP§f)",
   "obscure_api.ability.cost.level": "§f(# ур.§f)",
-  "obscure_api.ability.cost.durability": "§f(# §f)",
+  "obscure_api.ability.cost.durability": "§f(# §f)",
   "obscure_api.ability.cost.none": "",
-  "icon.energy": "§f§b",
-  "icon.exp": "§f§a"
+  "icon.energy": "§f§b",
+  "icon.exp": "§f§a"
 }
